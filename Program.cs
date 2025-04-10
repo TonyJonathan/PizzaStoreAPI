@@ -1,3 +1,5 @@
+using PizzaStoreAPI.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace PizzaStoreAPI
 {
@@ -13,6 +15,9 @@ namespace PizzaStoreAPI
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddDbContext<PizzaDbContext>(options =>
+                 options.UseSqlServer(builder.Configuration.GetConnectionString("PizzaDb")));
+
 
             var app = builder.Build();
 
