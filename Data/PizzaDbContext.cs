@@ -14,4 +14,3 @@ namespace PizzaStoreAPI.Data
         public DbSet<Pizza> Pizzas => Set<Pizza>(); 
     }
 }
-// Temporary change for amend
