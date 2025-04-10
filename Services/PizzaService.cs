@@ -16,6 +16,8 @@ public static class PizzaService
         };
     }
 
+    public static List<Pizza> GetAll() => Pizzas; 
+
     public static Pizza? Get(int id) => Pizzas.FirstOrDefault(p => p.Id == id); 
 
     public static void Add (Pizza pizza)
