@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PizzaStoreAPI.Models; 
+using PizzaStoreAPI.Models;
 
 namespace PizzaStoreAPI.Data
 {
@@ -11,6 +11,6 @@ namespace PizzaStoreAPI.Data
 
         }
 
-        public DbSet<Pizza> Pizzas => Set<Pizza>(); 
+        public DbSet<Pizza> Pizzas => Set<Pizza>();
     }
 }
