@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace ContosoPizza.Controllers;
+namespace PizzaStockAPI.Controllers;
 
 [ApiController]
 [Route("api/pizzas")]
@@ -17,4 +17,4 @@ public class PizzaController : ControllerBase
         return Pizzas;
     }
 }
-// Ceci est un test pour vérifier le push
+
