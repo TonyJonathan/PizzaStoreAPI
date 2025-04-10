@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace PizzaStockAPI.Controllers;
+namespace PizzaStoreAPI.Controllers;
 
 [ApiController]
 [Route("api/pizzas")]

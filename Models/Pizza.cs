@@ -1,4 +1,4 @@
-﻿namespace PizzaStockAPI.Models;
+﻿namespace PizzaStoreAPI.Models;
 
 public class Pizza
 {
