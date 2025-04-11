@@ -43,34 +43,37 @@ public class PizzaController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult Create(Pizza pizza)
+    public async Task<IActionResult> Create(Pizza pizza)
     {
-        PizzaService.Add(pizza);
+        _context.Pizzas.Add(pizza);
+        await _context.SaveChangesAsync();
+
         return CreatedAtAction(nameof(Get), new { id = pizza.Id }, pizza); 
     }
 
     [HttpPut("{id}")]
-    public IActionResult Update(int id, Pizza pizza)
+    public async Task<IActionResult> Update(int id, Pizza pizza)
     {
         if (id != pizza.Id) return BadRequest();
 
-        var existingPizza = PizzaService.Get(id); 
-        if(existingPizza is null) return NotFound();
+        var exist = await _context.Pizzas.AnyAsync(p => p.Id == id);
+        if (!exist) return NotFound();
 
-        PizzaService.Update(pizza);
-        return NoContent(); 
+        _context.Entry(pizza).State = EntityState.Modified;
+        await _context.SaveChangesAsync();
+
+        return Ok(pizza); 
     }
 
     [HttpDelete("{id}")]
-    public IActionResult Delete(int id)
+   public async Task<IActionResult> Delete(int id)
     {
-        var pizza = PizzaService.Get(id);
+        var pizza = await _context.Pizzas.FindAsync(id);
+        if (pizza == null) return NotFound();
 
-        if (pizza is null)
-            return NotFound();
+        _context.Pizzas.Remove(pizza);
+        await _context.SaveChangesAsync();
 
-        PizzaService.Delete(id);
-
-        return NoContent();
+        return NoContent(); 
     }
 }
