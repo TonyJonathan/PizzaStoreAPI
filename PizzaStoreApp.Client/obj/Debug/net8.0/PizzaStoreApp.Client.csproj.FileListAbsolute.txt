@@ -1,0 +1,12 @@
+C:\Users\Tonyb\source\repos\PizzaStoreAPI\PizzaStoreApp.Client\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.csproj.AssemblyReference.cache
+C:\Users\Tonyb\source\repos\PizzaStoreAPI\PizzaStoreApp.Client\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonyb\source\repos\PizzaStoreAPI\PizzaStoreApp.Client\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.AssemblyInfoInputs.cache
+C:\Users\Tonyb\source\repos\PizzaStoreAPI\PizzaStoreApp.Client\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.AssemblyInfo.cs
+C:\Users\Tonyb\source\repos\PizzaStoreAPI\PizzaStoreApp.Client\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\Tonyb\source\repos\PizzaStoreAPI\PizzaStoreApp.Client\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.csproj.AssemblyReference.cache
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.AssemblyInfoInputs.cache
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.AssemblyInfo.cs
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net8.0\PizzaStoreApp.Client.MvcApplicationPartsAssemblyInfo.cache
