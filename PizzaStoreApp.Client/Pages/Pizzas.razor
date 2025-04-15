@@ -1,0 +1,34 @@
+﻿@using PizzaStoreApp.Shared.Models
+
+@page "/pizzas"
+@inject HttpClient Http
+
+<h3>Liste des pizzas</h3>
+
+@if (pizzas == null)
+{
+    <p>Chargement...</p>
+}
+
+else if (!pizzas.Any())
+{
+    <p>Aucune pizza trouvée</p>
+}
+else
+{
+    <ul>
+        @foreach (var pizza in pizzas)
+        {
+            <li>@pizza.Name - @pizza.Price</li>
+        }
+    </ul>
+}
+
+@code {
+    List<Pizza>? pizzas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        pizzas = await Http.GetFromJsonAsync<List<Pizza>>("https://localhost:7016/api/pizza");
+    }
+}
