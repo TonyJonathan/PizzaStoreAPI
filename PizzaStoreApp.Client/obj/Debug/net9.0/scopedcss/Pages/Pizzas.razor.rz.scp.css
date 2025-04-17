@@ -1,0 +1,52 @@
+.container[b-ml1zlit7v8]
+{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+h3[b-ml1zlit7v8] {
+    margin-bottom: 50px;
+    font-size: 32px; 
+}
+
+
+.pizza-caracteristics[b-ml1zlit7v8]
+{
+    display: flex; 
+    margin: 30px 0px; 
+    text-align: center;  
+}
+
+.pizza-caracteristics > h4[b-ml1zlit7v8] 
+{
+    width: 200px; 
+}
+
+.pizza-caracteristics > h4:first-child[b-ml1zlit7v8] 
+{
+    text-align: start; 
+    padding-left: 50px;  
+}
+
+li[b-ml1zlit7v8] 
+{
+    display: flex; 
+    }
+
+li > p[b-ml1zlit7v8] {
+    width: 200px;
+    text-align: center; 
+}
+
+li > p:first-child[b-ml1zlit7v8]  
+{
+    text-align: start; 
+    padding-left: 50px; 
+}
+
+ul[b-ml1zlit7v8] 
+{
+    padding: 0; 
+}
