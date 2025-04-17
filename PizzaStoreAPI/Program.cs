@@ -9,15 +9,26 @@ namespace PizzaStoreAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins,
+                                  policy =>
+                                  {
+                                      policy.WithOrigins("https://localhost:7157") // port Blazor
+                                            .AllowAnyHeader()
+                                            .AllowAnyMethod();
+                                  });
+            });
+
+            // Add services to the container.
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            builder.Services.AddDbContext<PizzaDbContext>(options =>
-                 options.UseSqlServer(builder.Configuration.GetConnectionString("PizzaDb")));
 
+            builder.Services.AddDbContext<PizzaDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("PizzaDb")));
 
             var app = builder.Build();
 
@@ -29,13 +40,11 @@ namespace PizzaStoreAPI
             }
 
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
-
-
+            app.UseCors(MyAllowSpecificOrigins); 
             app.MapControllers();
-
             app.Run();
         }
     }
 }
+

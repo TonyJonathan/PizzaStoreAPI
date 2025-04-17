@@ -38,6 +38,8 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.w69ya3jgm7.wasm
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\mscorlib.wzkfrp7u5k.wasm
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\netstandard.d82br99ghv.wasm
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Shared.iz01a8fe9i.pdb
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Shared.ly8iib2wkx.wasm
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.brstoo7rmv.wasm
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.y31fti4j86.wasm
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Concurrent.kb0mdoldj7.wasm
@@ -335,6 +337,7 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Timer.v0pk5dv1s1.wasm.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.57yqx28bdw.wasm.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Shared.ly8iib2wkx.wasm.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.Net.Security.wtosy0w12b.wasm.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.ls8wraf4rs.wasm.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Options.ug6nnndcge.wasm.gz
@@ -378,6 +381,7 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.Numerics.eej9cnpchw.wasm.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.Net.NetworkInformation.22njzxzqxw.wasm.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Shared.iz01a8fe9i.pdb.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.IO.IsolatedStorage.ilz88wqgty.wasm.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.m2my51p06j.wasm.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
@@ -606,6 +610,8 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\icudt_CJK.dat
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\icudt_EFIGS.dat
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\icudt_no_CJK.dat
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\PizzaStoreApp.Shared.dll
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\PizzaStoreApp.Shared.pdb
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\PizzaStoreApp.Client.csproj.AssemblyReference.cache
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\PizzaStoreApp.Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\PizzaStoreApp.Client.AssemblyInfoInputs.cache
@@ -804,6 +810,7 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\webcil\mscorlib.wasm
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\webcil\netstandard.wasm
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\webcil\System.Private.CoreLib.wasm
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\webcil\PizzaStoreApp.Shared.wasm
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\webcil\PizzaStoreApp.Client.wasm
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
@@ -1061,6 +1068,8 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\m3x8vus3gf-tjcz0u77k5.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\7n2182cnwx-tptq2av103.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\w3u5pmcwuo-lfu7j35m59.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\mdqwv8m6cv-ly8iib2wkx.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\vq0ypw3xm1-iz01a8fe9i.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1076,19 +1085,10 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\PizzaStoreApp.Client.pdb
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\ref\PizzaStoreApp.Client.dll
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.mvtwetkbyj.pdb
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.ptn2oxbldz.wasm
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Shared.wjyuyedab8.pdb
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Shared.4acgivnrg2.wasm
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.mvtwetkbyj.pdb.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.ptn2oxbldz.wasm.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Shared.4acgivnrg2.wasm.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Shared.wjyuyedab8.pdb.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\PizzaStoreApp.Shared.dll
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\PizzaStoreApp.Shared.pdb
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\webcil\PizzaStoreApp.Shared.wasm
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\mdqwv8m6cv-4acgivnrg2.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\vq0ypw3xm1-wjyuyedab8.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\j16flarz0p-ptn2oxbldz.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\ce1mvco6ew-mvtwetkbyj.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\9m636dml83-wydiwfu9yu.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.jpz7xrn8tq.pdb
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.ju0gasuubb.wasm
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.jpz7xrn8tq.pdb.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.ju0gasuubb.wasm.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\j16flarz0p-ju0gasuubb.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\ce1mvco6ew-jpz7xrn8tq.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\9m636dml83-di76ckpvbc.gz

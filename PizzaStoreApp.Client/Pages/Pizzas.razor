@@ -1,15 +1,17 @@
-﻿@using PizzaStoreApp.Shared.Models
-
-@page "/pizzas"
-@inject HttpClient Http
+﻿@page "/pizzas"
+@using PizzaStoreApp.Shared.Models
+@inject PizzaStoreApp.Client.Services.PizzaService PizzaService
 
 <h3>Liste des pizzas</h3>
 
-@if (pizzas == null)
+@if (error != null)
+{
+    <p class="text-danger">Erreur : @error</p>
+}
+else if (pizzas == null)
 {
     <p>Chargement...</p>
 }
-
 else if (!pizzas.Any())
 {
     <p>Aucune pizza trouvée</p>
@@ -19,16 +21,24 @@ else
     <ul>
         @foreach (var pizza in pizzas)
         {
-            <li>@pizza.Name - @pizza.Price</li>
+            <li>@pizza.Name - @pizza.Price €</li>
         }
     </ul>
 }
 
 @code {
     List<Pizza>? pizzas;
+    string? error;
 
     protected override async Task OnInitializedAsync()
     {
-        pizzas = await Http.GetFromJsonAsync<List<Pizza>>("https://localhost:7016/api/pizza");
+        try
+        {
+            pizzas = await PizzaService.GetAllAsync();
+        }
+        catch (Exception ex)
+        {
+            error = ex.Message;
+        }
     }
 }
