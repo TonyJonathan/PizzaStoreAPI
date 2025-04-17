@@ -5,8 +5,9 @@
 @inject PizzaStoreApp.Client.Services.PizzaService PizzaService
 
 
-@* 
-<button class="btn btn-primary mb-3" @onclick="ToggleForm">➕ Ajouter</button> *@
+
+
+
 
 @if (error != null)
 {
@@ -31,9 +32,9 @@ else
     <div class="container">
         <h3>Liste des pizzas 🍕</h3>
         <div class="pizza-caracteristics">
-           <h4>Nom</h4>
-           <h4>Prix</h4>
-           <h4>Sans gluten</h4>
+            <h4>Nom</h4>
+            <h4>Prix</h4>
+            <h4>Sans gluten</h4>
         </div>
 
         <ul>
@@ -46,10 +47,80 @@ else
                 </li>
             }
         </ul>
+
+        @if (!showForm)
+        {
+            <button class="show" @onclick="ToggleForm">Ajouter</button>
+        }
+        else
+        {
+            @if (showForm)
+            {
+                <EditForm Model="newPizza" OnValidSubmit="CreatePizza">
+                    <DataAnnotationsValidator />
+                    <ValidationSummary />
+
+                    <div class="mb-3">
+                        <label>Nom :</label>
+                        <InputText class="form-control" placeholder="Max. 20 caractères" @bind-Value="newPizza.Name" />
+
+                        @if (!string.IsNullOrWhiteSpace(newPizza.Name) && newPizza.Name.Length < 2)
+                        {
+                            <p class="invalid-form">Minimum 2 caractères.</p>
+                        }
+                        @if (!string.IsNullOrWhiteSpace(newPizza.Name) && newPizza.Name.Length > 20)
+                        {
+                            <p class="invalid-form">Maximum 20 caractères.</p>
+                        }
+           
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Prix (€) :</label>
+                        <InputNumber class="form-control" placeholder="Entre 8€ et 18€" @bind-Value="newPizza.Price" />
+
+                        @if (newPizza.Price < 8 && newPizza.Price != null)
+                        {
+                            <p class="invalid-form">Le prix est inférieur à 8€.</p>
+                        }
+                        @if (newPizza.Price > 18 && newPizza.Price != null)
+                        {
+                            <p class="invalid-form">Le prix est supérieur à 18€.</p>
+                        }
+
+                    </div>
+
+                    <div class="mb-3">
+                        <label><InputCheckbox @bind-Value="newPizza.IsGlutenFree" /> Sans gluten</label>
+                    </div>
+                    <div class="d-flex">
+                        @if(IsValidForm)
+                        {
+                            <button type="submit" class="create">Créer</button>
+                        }
+                        else
+                        {
+                            <button class="create-disabled" disabled>Créer</button>
+                        }
+                        
+                        <button class="hide" @onclick="ToggleForm">Annuler</button>
+                    </div>
+                </EditForm>
+            }
+           
+        }
     </div>
+    
 }
 
 @code {
+    bool showForm = false;
+    Pizza newPizza = new();
+    bool IsValidForm =>
+        newPizza.Price is >= 8 and <= 18 &&
+        !string.IsNullOrWhiteSpace(newPizza.Name) &&
+        newPizza.Name.Length is >= 2 and <= 20;
+
     List<Pizza>? pizzas;
     string? error;
 
@@ -58,6 +129,26 @@ else
         try
         {
             pizzas = await PizzaService.GetAllAsync();
+        }
+        catch (Exception ex)
+        {
+            error = ex.Message;
+        }
+    }
+
+    void ToggleForm()
+    {
+        showForm = !showForm;
+        newPizza = new(); // Réinitialiser le formulaire
+    }
+
+    async Task CreatePizza()
+    {
+        try
+        {
+            await PizzaService.CreateAsync(newPizza);
+            pizzas = await PizzaService.GetAllAsync(); // Refresh la liste
+            showForm = false;
         }
         catch (Exception ex)
         {
