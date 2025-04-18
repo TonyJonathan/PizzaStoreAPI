@@ -44,9 +44,19 @@ li > p
 
     li > div
     {
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
         width: 200px;
         text-align: center;
     }
+
+        li > div > button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            margin-top: -19px;
+        }
 
 li > p:first-child  
 {
@@ -106,15 +116,17 @@ ul
     margin-top: 3px; 
 }
 
-.delete {
-    background: none;
-    border: none;
-    cursor: pointer;
-    margin-top: -19px;
-
+.update
+{
+    padding-top: 3px; 
 }
 
 .delete:hover 
  {
    filter: invert(21%) sepia(94%) saturate(7453%) hue-rotate(355deg) brightness(93%) contrast(127%);
  }
+
+
+.update:hover {
+    filter: invert(61%) sepia(94%) saturate(661%) hue-rotate(89deg) brightness(95%) contrast(102%);
+}

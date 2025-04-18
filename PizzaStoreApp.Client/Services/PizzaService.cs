@@ -24,6 +24,11 @@ public class PizzaService
         response.EnsureSuccessStatusCode();
     }
 
+    public async Task UpdateAsync(Pizza pizza)
+    {
+        await _http.PutAsJsonAsync($"api/pizza/{pizza.Id}", pizza); 
+    }
+
     public async Task DeleteAsync(int id)
     {
         await _http.DeleteAsync($"api/pizza/{id}"); 
