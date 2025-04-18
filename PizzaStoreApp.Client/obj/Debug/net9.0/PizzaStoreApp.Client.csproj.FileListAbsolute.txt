@@ -1086,10 +1086,10 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\vq0ypw3xm1-5nyueh9oeb.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\0tkx183xpx-gfald2vqa8.gz
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\2babccq52j-gfald2vqa8.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.8fbncwsxtl.pdb
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.ktqpvpdyg4.wasm
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.8fbncwsxtl.pdb.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.ktqpvpdyg4.wasm.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\j16flarz0p-ktqpvpdyg4.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\ce1mvco6ew-8fbncwsxtl.gz
-C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\9m636dml83-37qlmb4as7.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.r2bkgb8p6y.pdb
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.4rf9d49dte.wasm
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.r2bkgb8p6y.pdb.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Debug\net9.0\wwwroot\_framework\PizzaStoreApp.Client.4rf9d49dte.wasm.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\j16flarz0p-4rf9d49dte.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\ce1mvco6ew-r2bkgb8p6y.gz
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\obj\Debug\net9.0\compressed\9m636dml83-ymvpx5yz94.gz
