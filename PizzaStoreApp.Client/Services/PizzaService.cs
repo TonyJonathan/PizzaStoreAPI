@@ -24,4 +24,9 @@ public class PizzaService
         response.EnsureSuccessStatusCode();
     }
 
+    public async Task DeleteAsync(int id)
+    {
+        await _http.DeleteAsync($"api/pizza/{id}"); 
+    }
+
 }

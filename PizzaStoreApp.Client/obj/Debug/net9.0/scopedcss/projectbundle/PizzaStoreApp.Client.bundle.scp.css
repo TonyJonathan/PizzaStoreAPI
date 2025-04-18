@@ -196,12 +196,20 @@ h3[b-ml1zlit7v8] {
 li[b-ml1zlit7v8] 
 {
     display: flex; 
-    }
+    padding: 5px 0;
+}
 
-li > p[b-ml1zlit7v8] {
+li > p[b-ml1zlit7v8] 
+{
     width: 200px;
     text-align: center; 
 }
+
+    li > div[b-ml1zlit7v8]
+    {
+        width: 200px;
+        text-align: center;
+    }
 
 li > p:first-child[b-ml1zlit7v8]  
 {
@@ -260,3 +268,16 @@ ul[b-ml1zlit7v8]
     font-size: 13px; 
     margin-top: 3px; 
 }
+
+.delete[b-ml1zlit7v8] {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-top: -19px;
+
+}
+
+.delete:hover[b-ml1zlit7v8] 
+ {
+   filter: invert(21%) sepia(94%) saturate(7453%) hue-rotate(355deg) brightness(93%) contrast(127%);
+ }
