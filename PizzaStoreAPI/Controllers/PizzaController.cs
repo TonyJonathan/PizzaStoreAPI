@@ -19,15 +19,8 @@ public class PizzaController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<List<Pizza>>> GetAll()
     {
-        var pizzas = await _context.Pizzas.ToListAsync(); 
-
-        if (pizzas == null || pizzas.Count == 0)
-        {
-            return NotFound("Aucune pizza trouvée"); 
-        }
-
-        return pizzas; 
-
+        var pizzas = await _context.Pizzas.ToListAsync();
+        return pizzas; // même s’il est vide, c’est une réponse 200 OK
     }
 
 
