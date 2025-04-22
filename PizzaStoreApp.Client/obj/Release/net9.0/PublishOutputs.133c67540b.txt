@@ -1,0 +1,5 @@
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Release\net9.0\publish\dist\web.config
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Release\net9.0\publish\dist\PizzaStoreApp.Client.staticwebassets.endpoints.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Release\net9.0\publish\dist\wwwroot\sample-data\weather.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Release\net9.0\publish\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\bin\Release\net9.0\publish\web.config

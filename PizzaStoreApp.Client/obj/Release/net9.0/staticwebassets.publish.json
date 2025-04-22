@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XOWZZNtXns4ZaqIEP5xzTl2pjotG6/xbVLrFr+ah6H8=",
+  "Hash": "HtWpxJqFJvqnmXx/YZJxDYRHb3alLM/9yQEBc6KJjcY=",
   "Source": "PizzaStoreApp.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -41,7 +41,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.js",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet#[.{fingerprint}]?.js",
       "AssetKind": "Publish",
@@ -62,7 +62,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.native.3c4wvb350q.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.3c4wvb350q.wasm",
       "AssetKind": "Publish",
@@ -83,7 +83,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.native.hvg7u8bimp.js",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.hvg7u8bimp.js",
       "AssetKind": "Publish",
@@ -104,7 +104,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.runtime.cymp1amu5g.js",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.cymp1amu5g.js",
       "AssetKind": "Publish",
@@ -125,7 +125,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_CJK.tjcz0u77k5.dat",
       "AssetKind": "Publish",
@@ -146,7 +146,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_EFIGS.tptq2av103.dat",
       "AssetKind": "Publish",
@@ -167,7 +167,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_no_CJK.lfu7j35m59.dat",
       "AssetKind": "Publish",
@@ -188,7 +188,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/blazor.boot.json",
       "AssetKind": "Publish",
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "z4xkc5favx",
-      "Integrity": "PesE1MErKTaJUivOmBvCL6JuFMHkRZVAbyf4ZHM7bKQ=",
+      "Fingerprint": "oci2pr145j",
+      "Integrity": "mCFVwc5vR8jnYCNE7+sIS2ZBLnr3JlFJZK7nMRsCjes=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net9.0\\blazor.publish.boot.json"
@@ -335,7 +335,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\3nfyb33s64-ffzrnftong.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet#[.{fingerprint=ffzrnftong}]?.js.gz",
       "AssetKind": "Publish",
@@ -629,7 +629,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\br15taky80-3c4wvb350q.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native#[.{fingerprint=3c4wvb350q}]!.wasm.gz",
       "AssetKind": "Publish",
@@ -902,7 +902,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\mx79qmsvly-hvg7u8bimp.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native#[.{fingerprint=hvg7u8bimp}]!.js.gz",
       "AssetKind": "Publish",
@@ -1256,12 +1256,12 @@
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\PizzaStoreApp.Client.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.br",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.br",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/PizzaStoreApp.Client#[.{fingerprint=393rjzhkmc}]!.wasm.br",
+      "RelativePath": "_framework/PizzaStoreApp.Client#[.{fingerprint=vccs3wfl4x}]!.wasm.br",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1270,19 +1270,19 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "fgwlgpcrlv",
-      "Integrity": "jyua5NyoL+4WVjBQ87rdYCkGcEhKTcKFwAfzf6BPK1A=",
+      "Fingerprint": "66jz1ne5w1",
+      "Integrity": "Mjca+a6obi/NIw5YqiaEpMccMKweFhcIMozBeYSVJe0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Client.wasm"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.gz",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/PizzaStoreApp.Client#[.{fingerprint=393rjzhkmc}]!.wasm.gz",
+      "RelativePath": "_framework/PizzaStoreApp.Client#[.{fingerprint=vccs3wfl4x}]!.wasm.gz",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1291,19 +1291,19 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nokfdeaa1w",
-      "Integrity": "iaS84x8GvZmkqPrNjp1V2aTp4wrQxjDZkiOck3yJfbs=",
+      "Fingerprint": "qa8mfawfyp",
+      "Integrity": "gmp43po5go93EcF/dbq+JqtQJuzF+Vrdqd9u0I1dpbo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Client.wasm"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.br",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.br",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/PizzaStoreApp.Shared#[.{fingerprint=pc0s2twpmy}]!.wasm.br",
+      "RelativePath": "_framework/PizzaStoreApp.Shared#[.{fingerprint=m0h14el7mn}]!.wasm.br",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1312,19 +1312,19 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Shared.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "vbnnk649u9",
-      "Integrity": "JT6gwhJKsRL0A4IFDKP4XCi74jo4PyEvm0kfmJJuHcc=",
+      "Fingerprint": "3w5aclkzpx",
+      "Integrity": "Uzw3kEgAwd4CBEf0F4TVSbCBY9613BXVwlIcW0WgXiY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Shared.wasm"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.gz",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/PizzaStoreApp.Shared#[.{fingerprint=pc0s2twpmy}]!.wasm.gz",
+      "RelativePath": "_framework/PizzaStoreApp.Shared#[.{fingerprint=m0h14el7mn}]!.wasm.gz",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Shared.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2ion3egg0p",
-      "Integrity": "NkmkqAxnA7qagymZ+2WocKfyNTQ5Hv0i222Ha2ErKEQ=",
+      "Fingerprint": "qcuw55ave0",
+      "Integrity": "qhr7r2p6mFxsvFM2QunAHUTZYs/D9HMwGPQv5RguO4Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Shared.wasm"
@@ -1970,7 +1970,7 @@
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-z4xkc5favx.br",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-oci2pr145j.br",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -1984,14 +1984,14 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "q3jmf3m564",
-      "Integrity": "yvrWPitvRm3DslL/asO+hXzrN9CeHIEY+uwW7ayp3S0=",
+      "Fingerprint": "nx11vnoqjz",
+      "Integrity": "C/sqVi4r9nkd6nIduDTmyyJC1tYi5tJCi+FiEGbUtak=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-z4xkc5favx.gz",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-oci2pr145j.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -2005,8 +2005,8 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ps0kom621l",
-      "Integrity": "CVF7afxVGegiJOUzNsabDX84uGXb7NZ0ERf8kPR1tDw=",
+      "Fingerprint": "epwutvbils",
+      "Integrity": "7rV9F5CNzOqtxxTWFGsf7vU6OPGRxqtIDPtqUgbL8wc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\blazor.publish.boot.json"
@@ -4409,7 +4409,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\wkyv43jm9y-cymp1amu5g.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime#[.{fingerprint=cymp1amu5g}]!.js.gz",
       "AssetKind": "Publish",
@@ -4577,7 +4577,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Forms.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4598,7 +4598,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4619,7 +4619,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Web.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4640,7 +4640,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4661,7 +4661,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Abstractions.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4682,7 +4682,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Json.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Json#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4703,7 +4703,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Configuration.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4724,7 +4724,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4745,7 +4745,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4766,7 +4766,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Logging.Abstractions.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4787,7 +4787,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Logging.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4808,7 +4808,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Options.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Options#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4829,7 +4829,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Primitives.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4850,7 +4850,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.JSInterop.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4871,7 +4871,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.JSInterop.WebAssembly.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4892,7 +4892,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Client.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/PizzaStoreApp.Client#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4903,8 +4903,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "393rjzhkmc",
-      "Integrity": "yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ=",
+      "Fingerprint": "vccs3wfl4x",
+      "Integrity": "cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Client.wasm"
@@ -4913,7 +4913,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Shared.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/PizzaStoreApp.Shared#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4924,8 +4924,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "pc0s2twpmy",
-      "Integrity": "yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c=",
+      "Fingerprint": "m0h14el7mn",
+      "Integrity": "ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Shared.wasm"
@@ -4934,7 +4934,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.Concurrent.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Concurrent#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4955,7 +4955,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.Immutable.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Immutable#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4976,7 +4976,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.NonGeneric.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.NonGeneric#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4997,7 +4997,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.Specialized.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Specialized#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5018,7 +5018,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5039,7 +5039,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.ComponentModel.Annotations.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.Annotations#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5060,7 +5060,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.ComponentModel.Primitives.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5081,7 +5081,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.ComponentModel.TypeConverter.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.TypeConverter#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5102,7 +5102,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.ComponentModel.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5123,7 +5123,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Console.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Console#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5144,7 +5144,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Diagnostics.DiagnosticSource.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Diagnostics.DiagnosticSource#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5165,7 +5165,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.IO.Pipelines.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.IO.Pipelines#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5186,7 +5186,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Linq.Expressions.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq.Expressions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5207,7 +5207,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Linq.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5228,7 +5228,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Memory.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Memory#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5249,7 +5249,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Net.Http.Json.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http.Json#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5270,7 +5270,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Net.Http.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5291,7 +5291,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Net.Primitives.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5312,7 +5312,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.ObjectModel.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ObjectModel#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5333,7 +5333,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Private.CoreLib.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.CoreLib#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5354,7 +5354,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Private.Uri.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.Uri#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5375,7 +5375,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Runtime.InteropServices.JavaScript.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.InteropServices.JavaScript#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5396,7 +5396,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Runtime.Serialization.Primitives.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.Serialization.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5417,7 +5417,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Runtime.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5438,7 +5438,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.Encodings.Web.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Encodings.Web#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5459,7 +5459,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.Json.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Json#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5480,7 +5480,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.RegularExpressions.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.RegularExpressions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5501,7 +5501,7 @@
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\System.wasm",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\dist\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Release\\net9.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -6568,11 +6568,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PesE1MErKTaJUivOmBvCL6JuFMHkRZVAbyf4ZHM7bKQ=\""
+          "Value": "\"mCFVwc5vR8jnYCNE7+sIS2ZBLnr3JlFJZK7nMRsCjes=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6582,18 +6582,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PesE1MErKTaJUivOmBvCL6JuFMHkRZVAbyf4ZHM7bKQ="
+          "Value": "sha256-mCFVwc5vR8jnYCNE7+sIS2ZBLnr3JlFJZK7nMRsCjes="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-z4xkc5favx.br",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-oci2pr145j.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000317662008"
+          "Quality": "0.000317863954"
         }
       ],
       "ResponseHeaders": [
@@ -6603,15 +6603,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3147"
+          "Value": "3145"
         },
         {
           "Name": "ETag",
-          "Value": "\"yvrWPitvRm3DslL/asO+hXzrN9CeHIEY+uwW7ayp3S0=\""
+          "Value": "\"C/sqVi4r9nkd6nIduDTmyyJC1tYi5tJCi+FiEGbUtak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6631,24 +6631,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PesE1MErKTaJUivOmBvCL6JuFMHkRZVAbyf4ZHM7bKQ=\""
+          "Value": "W/\"mCFVwc5vR8jnYCNE7+sIS2ZBLnr3JlFJZK7nMRsCjes=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PesE1MErKTaJUivOmBvCL6JuFMHkRZVAbyf4ZHM7bKQ="
+          "Value": "sha256-mCFVwc5vR8jnYCNE7+sIS2ZBLnr3JlFJZK7nMRsCjes="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-z4xkc5favx.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-oci2pr145j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000291375291"
+          "Quality": "0.000291205591"
         }
       ],
       "ResponseHeaders": [
@@ -6658,15 +6658,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3431"
+          "Value": "3433"
         },
         {
           "Name": "ETag",
-          "Value": "\"CVF7afxVGegiJOUzNsabDX84uGXb7NZ0ERf8kPR1tDw=\""
+          "Value": "\"7rV9F5CNzOqtxxTWFGsf7vU6OPGRxqtIDPtqUgbL8wc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6686,19 +6686,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PesE1MErKTaJUivOmBvCL6JuFMHkRZVAbyf4ZHM7bKQ=\""
+          "Value": "W/\"mCFVwc5vR8jnYCNE7+sIS2ZBLnr3JlFJZK7nMRsCjes=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PesE1MErKTaJUivOmBvCL6JuFMHkRZVAbyf4ZHM7bKQ="
+          "Value": "sha256-mCFVwc5vR8jnYCNE7+sIS2ZBLnr3JlFJZK7nMRsCjes="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-z4xkc5favx.br",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-oci2pr145j.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6707,7 +6707,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3147"
+          "Value": "3145"
         },
         {
           "Name": "Content-Type",
@@ -6715,11 +6715,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yvrWPitvRm3DslL/asO+hXzrN9CeHIEY+uwW7ayp3S0=\""
+          "Value": "\"C/sqVi4r9nkd6nIduDTmyyJC1tYi5tJCi+FiEGbUtak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6737,13 +6737,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yvrWPitvRm3DslL/asO+hXzrN9CeHIEY+uwW7ayp3S0="
+          "Value": "sha256-C/sqVi4r9nkd6nIduDTmyyJC1tYi5tJCi+FiEGbUtak="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-z4xkc5favx.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\93a2y6xix6-oci2pr145j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6752,7 +6752,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3431"
+          "Value": "3433"
         },
         {
           "Name": "Content-Type",
@@ -6760,11 +6760,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CVF7afxVGegiJOUzNsabDX84uGXb7NZ0ERf8kPR1tDw=\""
+          "Value": "\"7rV9F5CNzOqtxxTWFGsf7vU6OPGRxqtIDPtqUgbL8wc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6782,7 +6782,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CVF7afxVGegiJOUzNsabDX84uGXb7NZ0ERf8kPR1tDw="
+          "Value": "sha256-7rV9F5CNzOqtxxTWFGsf7vU6OPGRxqtIDPtqUgbL8wc="
         }
       ]
     },
@@ -6848,7 +6848,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:05 GMT"
+          "Value": "Fri, 14 Mar 2025 17:04:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7001,7 +7001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:05 GMT"
+          "Value": "Fri, 14 Mar 2025 17:04:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7093,7 +7093,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:05 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7270,7 +7270,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:05 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7362,7 +7362,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:05 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7515,7 +7515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:05 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16994,13 +16994,13 @@
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.393rjzhkmc.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.br",
+      "Route": "_framework/PizzaStoreApp.Client.vccs3wfl4x.wasm",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000086527646"
+          "Quality": "0.000086670133"
         }
       ],
       "ResponseHeaders": [
@@ -17010,15 +17010,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11556"
+          "Value": "11537"
         },
         {
           "Name": "ETag",
-          "Value": "\"jyua5NyoL+4WVjBQ87rdYCkGcEhKTcKFwAfzf6BPK1A=\""
+          "Value": "\"Mjca+a6obi/NIw5YqiaEpMccMKweFhcIMozBeYSVJe0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17038,13 +17038,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ=\""
+          "Value": "W/\"cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "393rjzhkmc"
+          "Value": "vccs3wfl4x"
         },
         {
           "Name": "label",
@@ -17052,18 +17052,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ="
+          "Value": "sha256-cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.393rjzhkmc.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.gz",
+      "Route": "_framework/PizzaStoreApp.Client.vccs3wfl4x.wasm",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000074217011"
+          "Quality": "0.000074183976"
         }
       ],
       "ResponseHeaders": [
@@ -17073,15 +17073,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13473"
+          "Value": "13479"
         },
         {
           "Name": "ETag",
-          "Value": "\"iaS84x8GvZmkqPrNjp1V2aTp4wrQxjDZkiOck3yJfbs=\""
+          "Value": "\"gmp43po5go93EcF/dbq+JqtQJuzF+Vrdqd9u0I1dpbo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17101,13 +17101,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ=\""
+          "Value": "W/\"cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "393rjzhkmc"
+          "Value": "vccs3wfl4x"
         },
         {
           "Name": "label",
@@ -17115,12 +17115,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ="
+          "Value": "sha256-cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.393rjzhkmc.wasm",
+      "Route": "_framework/PizzaStoreApp.Client.vccs3wfl4x.wasm",
       "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17138,11 +17138,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ=\""
+          "Value": "\"cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17152,7 +17152,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "393rjzhkmc"
+          "Value": "vccs3wfl4x"
         },
         {
           "Name": "label",
@@ -17160,13 +17160,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ="
+          "Value": "sha256-cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.393rjzhkmc.wasm.br",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.br",
+      "Route": "_framework/PizzaStoreApp.Client.vccs3wfl4x.wasm.br",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17175,7 +17175,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11556"
+          "Value": "11537"
         },
         {
           "Name": "Content-Type",
@@ -17183,11 +17183,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jyua5NyoL+4WVjBQ87rdYCkGcEhKTcKFwAfzf6BPK1A=\""
+          "Value": "\"Mjca+a6obi/NIw5YqiaEpMccMKweFhcIMozBeYSVJe0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17205,7 +17205,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "393rjzhkmc"
+          "Value": "vccs3wfl4x"
         },
         {
           "Name": "label",
@@ -17213,13 +17213,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jyua5NyoL+4WVjBQ87rdYCkGcEhKTcKFwAfzf6BPK1A="
+          "Value": "sha256-Mjca+a6obi/NIw5YqiaEpMccMKweFhcIMozBeYSVJe0="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.393rjzhkmc.wasm.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.gz",
+      "Route": "_framework/PizzaStoreApp.Client.vccs3wfl4x.wasm.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17228,7 +17228,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13473"
+          "Value": "13479"
         },
         {
           "Name": "Content-Type",
@@ -17236,11 +17236,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iaS84x8GvZmkqPrNjp1V2aTp4wrQxjDZkiOck3yJfbs=\""
+          "Value": "\"gmp43po5go93EcF/dbq+JqtQJuzF+Vrdqd9u0I1dpbo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17258,7 +17258,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "393rjzhkmc"
+          "Value": "vccs3wfl4x"
         },
         {
           "Name": "label",
@@ -17266,18 +17266,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iaS84x8GvZmkqPrNjp1V2aTp4wrQxjDZkiOck3yJfbs="
+          "Value": "sha256-gmp43po5go93EcF/dbq+JqtQJuzF+Vrdqd9u0I1dpbo="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.br",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000086527646"
+          "Quality": "0.000086670133"
         }
       ],
       "ResponseHeaders": [
@@ -17287,15 +17287,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11556"
+          "Value": "11537"
         },
         {
           "Name": "ETag",
-          "Value": "\"jyua5NyoL+4WVjBQ87rdYCkGcEhKTcKFwAfzf6BPK1A=\""
+          "Value": "\"Mjca+a6obi/NIw5YqiaEpMccMKweFhcIMozBeYSVJe0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17315,24 +17315,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ=\""
+          "Value": "W/\"cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ="
+          "Value": "sha256-cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000074217011"
+          "Quality": "0.000074183976"
         }
       ],
       "ResponseHeaders": [
@@ -17342,15 +17342,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13473"
+          "Value": "13479"
         },
         {
           "Name": "ETag",
-          "Value": "\"iaS84x8GvZmkqPrNjp1V2aTp4wrQxjDZkiOck3yJfbs=\""
+          "Value": "\"gmp43po5go93EcF/dbq+JqtQJuzF+Vrdqd9u0I1dpbo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17370,13 +17370,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ=\""
+          "Value": "W/\"cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ="
+          "Value": "sha256-cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg="
         }
       ]
     },
@@ -17399,11 +17399,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ=\""
+          "Value": "\"cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17413,13 +17413,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yUfO9Bkp9qeiypBTe8QuhRygddNSsjIisn9A4c480HQ="
+          "Value": "sha256-cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm.br",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.br",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17428,7 +17428,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11556"
+          "Value": "11537"
         },
         {
           "Name": "Content-Type",
@@ -17436,11 +17436,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jyua5NyoL+4WVjBQ87rdYCkGcEhKTcKFwAfzf6BPK1A=\""
+          "Value": "\"Mjca+a6obi/NIw5YqiaEpMccMKweFhcIMozBeYSVJe0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17458,13 +17458,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jyua5NyoL+4WVjBQ87rdYCkGcEhKTcKFwAfzf6BPK1A="
+          "Value": "sha256-Mjca+a6obi/NIw5YqiaEpMccMKweFhcIMozBeYSVJe0="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-393rjzhkmc.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\2j82og78gm-vccs3wfl4x.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17473,7 +17473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13473"
+          "Value": "13479"
         },
         {
           "Name": "Content-Type",
@@ -17481,11 +17481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iaS84x8GvZmkqPrNjp1V2aTp4wrQxjDZkiOck3yJfbs=\""
+          "Value": "\"gmp43po5go93EcF/dbq+JqtQJuzF+Vrdqd9u0I1dpbo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17503,18 +17503,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iaS84x8GvZmkqPrNjp1V2aTp4wrQxjDZkiOck3yJfbs="
+          "Value": "sha256-gmp43po5go93EcF/dbq+JqtQJuzF+Vrdqd9u0I1dpbo="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Shared.pc0s2twpmy.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.br",
+      "Route": "_framework/PizzaStoreApp.Shared.m0h14el7mn.wasm",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000589622642"
+          "Quality": "0.000585480094"
         }
       ],
       "ResponseHeaders": [
@@ -17524,15 +17524,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1695"
+          "Value": "1707"
         },
         {
           "Name": "ETag",
-          "Value": "\"JT6gwhJKsRL0A4IFDKP4XCi74jo4PyEvm0kfmJJuHcc=\""
+          "Value": "\"Uzw3kEgAwd4CBEf0F4TVSbCBY9613BXVwlIcW0WgXiY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17552,13 +17552,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c=\""
+          "Value": "W/\"ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pc0s2twpmy"
+          "Value": "m0h14el7mn"
         },
         {
           "Name": "label",
@@ -17566,18 +17566,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c="
+          "Value": "sha256-ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Shared.pc0s2twpmy.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.gz",
+      "Route": "_framework/PizzaStoreApp.Shared.m0h14el7mn.wasm",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000513083633"
+          "Quality": "0.000512032770"
         }
       ],
       "ResponseHeaders": [
@@ -17587,15 +17587,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1948"
+          "Value": "1952"
         },
         {
           "Name": "ETag",
-          "Value": "\"NkmkqAxnA7qagymZ+2WocKfyNTQ5Hv0i222Ha2ErKEQ=\""
+          "Value": "\"qhr7r2p6mFxsvFM2QunAHUTZYs/D9HMwGPQv5RguO4Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17615,13 +17615,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c=\""
+          "Value": "W/\"ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pc0s2twpmy"
+          "Value": "m0h14el7mn"
         },
         {
           "Name": "label",
@@ -17629,12 +17629,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c="
+          "Value": "sha256-ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Shared.pc0s2twpmy.wasm",
+      "Route": "_framework/PizzaStoreApp.Shared.m0h14el7mn.wasm",
       "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\webcil\\publish\\PizzaStoreApp.Shared.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17652,11 +17652,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c=\""
+          "Value": "\"ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17666,7 +17666,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pc0s2twpmy"
+          "Value": "m0h14el7mn"
         },
         {
           "Name": "label",
@@ -17674,13 +17674,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c="
+          "Value": "sha256-ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Shared.pc0s2twpmy.wasm.br",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.br",
+      "Route": "_framework/PizzaStoreApp.Shared.m0h14el7mn.wasm.br",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17689,7 +17689,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1695"
+          "Value": "1707"
         },
         {
           "Name": "Content-Type",
@@ -17697,11 +17697,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JT6gwhJKsRL0A4IFDKP4XCi74jo4PyEvm0kfmJJuHcc=\""
+          "Value": "\"Uzw3kEgAwd4CBEf0F4TVSbCBY9613BXVwlIcW0WgXiY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17719,7 +17719,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pc0s2twpmy"
+          "Value": "m0h14el7mn"
         },
         {
           "Name": "label",
@@ -17727,13 +17727,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JT6gwhJKsRL0A4IFDKP4XCi74jo4PyEvm0kfmJJuHcc="
+          "Value": "sha256-Uzw3kEgAwd4CBEf0F4TVSbCBY9613BXVwlIcW0WgXiY="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Shared.pc0s2twpmy.wasm.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.gz",
+      "Route": "_framework/PizzaStoreApp.Shared.m0h14el7mn.wasm.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17742,7 +17742,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1948"
+          "Value": "1952"
         },
         {
           "Name": "Content-Type",
@@ -17750,11 +17750,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NkmkqAxnA7qagymZ+2WocKfyNTQ5Hv0i222Ha2ErKEQ=\""
+          "Value": "\"qhr7r2p6mFxsvFM2QunAHUTZYs/D9HMwGPQv5RguO4Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17772,7 +17772,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pc0s2twpmy"
+          "Value": "m0h14el7mn"
         },
         {
           "Name": "label",
@@ -17780,18 +17780,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NkmkqAxnA7qagymZ+2WocKfyNTQ5Hv0i222Ha2ErKEQ="
+          "Value": "sha256-qhr7r2p6mFxsvFM2QunAHUTZYs/D9HMwGPQv5RguO4Q="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Shared.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.br",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000589622642"
+          "Quality": "0.000585480094"
         }
       ],
       "ResponseHeaders": [
@@ -17801,15 +17801,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1695"
+          "Value": "1707"
         },
         {
           "Name": "ETag",
-          "Value": "\"JT6gwhJKsRL0A4IFDKP4XCi74jo4PyEvm0kfmJJuHcc=\""
+          "Value": "\"Uzw3kEgAwd4CBEf0F4TVSbCBY9613BXVwlIcW0WgXiY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17829,24 +17829,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c=\""
+          "Value": "W/\"ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c="
+          "Value": "sha256-ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Shared.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000513083633"
+          "Quality": "0.000512032770"
         }
       ],
       "ResponseHeaders": [
@@ -17856,15 +17856,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1948"
+          "Value": "1952"
         },
         {
           "Name": "ETag",
-          "Value": "\"NkmkqAxnA7qagymZ+2WocKfyNTQ5Hv0i222Ha2ErKEQ=\""
+          "Value": "\"qhr7r2p6mFxsvFM2QunAHUTZYs/D9HMwGPQv5RguO4Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17884,13 +17884,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c=\""
+          "Value": "W/\"ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c="
+          "Value": "sha256-ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU="
         }
       ]
     },
@@ -17913,11 +17913,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c=\""
+          "Value": "\"ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17927,13 +17927,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yQawFC+IYzp0OEodbloPCJVFZIetMpz9bCZErHkgz3c="
+          "Value": "sha256-ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Shared.wasm.br",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.br",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17942,7 +17942,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1695"
+          "Value": "1707"
         },
         {
           "Name": "Content-Type",
@@ -17950,11 +17950,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JT6gwhJKsRL0A4IFDKP4XCi74jo4PyEvm0kfmJJuHcc=\""
+          "Value": "\"Uzw3kEgAwd4CBEf0F4TVSbCBY9613BXVwlIcW0WgXiY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17972,13 +17972,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JT6gwhJKsRL0A4IFDKP4XCi74jo4PyEvm0kfmJJuHcc="
+          "Value": "sha256-Uzw3kEgAwd4CBEf0F4TVSbCBY9613BXVwlIcW0WgXiY="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Shared.wasm.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-pc0s2twpmy.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Release\\net9.0\\compressed\\publish\\34505jd6vb-m0h14el7mn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17987,7 +17987,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1948"
+          "Value": "1952"
         },
         {
           "Name": "Content-Type",
@@ -17995,11 +17995,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NkmkqAxnA7qagymZ+2WocKfyNTQ5Hv0i222Ha2ErKEQ=\""
+          "Value": "\"qhr7r2p6mFxsvFM2QunAHUTZYs/D9HMwGPQv5RguO4Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 11:10:11 GMT"
+          "Value": "Tue, 22 Apr 2025 12:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18017,7 +18017,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NkmkqAxnA7qagymZ+2WocKfyNTQ5Hv0i222Ha2ErKEQ="
+          "Value": "sha256-qhr7r2p6mFxsvFM2QunAHUTZYs/D9HMwGPQv5RguO4Q="
         }
       ]
     },

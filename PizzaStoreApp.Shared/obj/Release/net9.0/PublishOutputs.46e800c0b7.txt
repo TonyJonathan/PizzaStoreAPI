@@ -1,0 +1,3 @@
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\bin\Release\net9.0\publish\PizzaStoreApp.Shared.dll
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\bin\Release\net9.0\publish\PizzaStoreApp.Shared.deps.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\bin\Release\net9.0\publish\PizzaStoreApp.Shared.pdb
