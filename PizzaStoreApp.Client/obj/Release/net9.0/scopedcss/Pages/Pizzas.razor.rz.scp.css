@@ -1,0 +1,132 @@
+.container[b-ml1zlit7v8]
+{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+h3[b-ml1zlit7v8] {
+    margin-bottom: 50px;
+    font-size: 32px; 
+}
+
+
+.pizza-caracteristics[b-ml1zlit7v8]
+{
+    display: flex; 
+    margin: 30px 0px; 
+    text-align: center;  
+}
+
+.pizza-caracteristics > h4[b-ml1zlit7v8] 
+{
+    width: 200px; 
+}
+
+.pizza-caracteristics > h4:first-child[b-ml1zlit7v8] 
+{
+    text-align: start; 
+    padding-left: 50px;  
+}
+
+li[b-ml1zlit7v8] 
+{
+    display: flex; 
+    padding: 5px 0;
+}
+
+li > p[b-ml1zlit7v8] 
+{
+    width: 200px;
+    text-align: center; 
+}
+
+    li > div[b-ml1zlit7v8]
+    {
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        width: 200px;
+        text-align: center;
+    }
+
+        li > div > button[b-ml1zlit7v8] {
+            background: none;
+            border: none;
+            cursor: pointer;
+            margin-top: -19px;
+        }
+
+li > p:first-child[b-ml1zlit7v8]  
+{
+    text-align: start; 
+    padding-left: 50px; 
+}
+
+ul[b-ml1zlit7v8] 
+{
+    padding: 0; 
+}
+
+.show[b-ml1zlit7v8] {
+    width: 110px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #0059df; 
+    padding: 5px 0px;
+    border-radius: 6px;
+    border: none; 
+}
+
+.hide[b-ml1zlit7v8] {
+    width: 110px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #ff0000;
+    padding: 5px 0px;
+    border-radius: 6px;
+    border: none;
+    margin-left: 10px; 
+}
+
+.create[b-ml1zlit7v8] {
+    width: 110px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #198754;
+    padding: 5px 0px;
+    border-radius: 6px;
+    border: none;
+}
+
+.create-disabled[b-ml1zlit7v8] {
+    width: 110px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #a6a6a6;
+    padding: 5px 0px;
+    border-radius: 6px;
+    border: none;
+}
+
+.invalid-form[b-ml1zlit7v8]{
+    color: #FF0000; 
+    font-size: 13px; 
+    margin-top: 3px; 
+}
+
+.update[b-ml1zlit7v8]
+{
+    padding-top: 3px; 
+}
+
+.delete:hover[b-ml1zlit7v8] 
+ {
+   filter: invert(21%) sepia(94%) saturate(7453%) hue-rotate(355deg) brightness(93%) contrast(127%);
+ }
+
+
+.update:hover[b-ml1zlit7v8] {
+    filter: invert(61%) sepia(94%) saturate(661%) hue-rotate(89deg) brightness(95%) contrast(102%);
+}

@@ -1,0 +1,12 @@
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\bin\Release\net9.0\PizzaStoreApp.Shared.deps.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\bin\Release\net9.0\PizzaStoreApp.Shared.dll
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\bin\Release\net9.0\PizzaStoreApp.Shared.pdb
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\PizzaStoreApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\PizzaStoreApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\PizzaStoreApp.Shared.AssemblyInfo.cs
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\PizzaStoreApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\PizzaStoreApp.Shared.sourcelink.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\PizzaStoreApp.Shared.dll
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\refint\PizzaStoreApp.Shared.dll
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\PizzaStoreApp.Shared.pdb
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\ref\PizzaStoreApp.Shared.dll
