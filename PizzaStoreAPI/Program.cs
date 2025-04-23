@@ -42,14 +42,23 @@ namespace PizzaStoreAPI
             }
 
             // Fonction de conversion pour PostgreSQL (Render)
-            static string ConvertDatabaseUrlToConnectionString(string databaseUrl)
+            string ConvertDatabaseUrlToConnectionString(string? databaseUrl)
             {
+                if (string.IsNullOrEmpty(databaseUrl))
+                    throw new InvalidOperationException("DATABASE_URL is not set.");
+
                 var uri = new Uri(databaseUrl);
                 var userInfo = uri.UserInfo.Split(':');
 
-                return $"Host={uri.Host};Port={uri.Port};Database={uri.AbsolutePath.TrimStart('/')};" +
-                       $"Username={userInfo[0]};Password={userInfo[1]};SSL Mode=Require;Trust Server Certificate=true";
+                var host = uri.Host;
+                var port = uri.Port > 0 ? uri.Port : 5432; // Défaut : 5432
+                var db = uri.AbsolutePath.TrimStart('/');
+                var user = userInfo[0];
+                var pwd = userInfo[1];
+
+                return $"Host={host};Port={port};Database={db};Username={user};Password={pwd};SSL Mode=Require;Trust Server Certificate=true";
             }
+
 
             // Ajout des services
             builder.Services.AddControllers();
