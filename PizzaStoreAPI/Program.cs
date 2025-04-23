@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using PizzaStoreAPI.Data;
 
 namespace PizzaStoreAPI
@@ -24,14 +25,15 @@ namespace PizzaStoreAPI
 
             // Connexion à la base de données
             string? connectionString;
-
             var databaseUrl = builder.Configuration["DATABASE_URL"];
+
             if (!string.IsNullOrEmpty(databaseUrl))
             {
                 // Environnement Render : PostgreSQL
                 connectionString = ConvertDatabaseUrlToConnectionString(databaseUrl);
                 builder.Services.AddDbContext<PizzaDbContext>(options =>
-                    options.UseNpgsql(connectionString));
+                    options.UseNpgsql(connectionString)
+                           .ConfigureWarnings(w => w.Ignore(RelationalEventId.PendingModelChangesWarning)));
             }
             else
             {
@@ -58,7 +60,6 @@ namespace PizzaStoreAPI
 
                 return $"Host={host};Port={port};Database={db};Username={user};Password={pwd};SSL Mode=Require;Trust Server Certificate=true";
             }
-
 
             // Ajout des services
             builder.Services.AddControllers();
