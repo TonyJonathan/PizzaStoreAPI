@@ -11,7 +11,7 @@ using PizzaStoreAPI.Data;
 namespace PizzaStoreAPI.Migrations
 {
     [DbContext(typeof(PizzaDbContext))]
-    [Migration("20250423172923_InitClean")]
+    [Migration("20250423211312_InitClean")]
     partial class InitClean
     {
         /// <inheritdoc />

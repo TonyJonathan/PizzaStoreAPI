@@ -9,7 +9,7 @@ using PizzaStoreAPI.Data;
 
 namespace PizzaStoreAPI.Migrations
 {
-
+    [DbContext(typeof(PizzaDbContext))]
     partial class PizzaDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
