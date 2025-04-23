@@ -79,6 +79,7 @@ namespace PizzaStoreAPI
             app.UseAuthorization();
             app.MapControllers();
 
+            // Appliquer les migrations automatiquement si PostgreSQL (Render)
             if (!string.IsNullOrEmpty(databaseUrl))
             {
                 using (var scope = app.Services.CreateScope())
@@ -95,8 +96,6 @@ namespace PizzaStoreAPI
                     }
                 }
             }
-                
-
 
             app.Run();
         }
