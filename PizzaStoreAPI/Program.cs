@@ -69,6 +69,26 @@ namespace PizzaStoreAPI
             app.UseCors(MyAllowSpecificOrigins);
             app.UseAuthorization();
             app.MapControllers();
+
+            if (!string.IsNullOrEmpty(databaseUrl))
+            {
+                using (var scope = app.Services.CreateScope())
+                {
+                    var db = scope.ServiceProvider.GetRequiredService<PizzaDbContext>();
+                    try
+                    {
+                        db.Database.Migrate();
+                        Console.WriteLine("Connexion à la base réussie et migrations appliquées.");
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine("Erreur de connexion à la base : " + ex.Message);
+                    }
+                }
+            }
+                
+
+
             app.Run();
         }
     }
