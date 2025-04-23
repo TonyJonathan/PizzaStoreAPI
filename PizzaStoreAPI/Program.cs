@@ -26,7 +26,6 @@ namespace PizzaStoreAPI
             // Connexion à la base de données
             string? connectionString;
             var databaseUrl = builder.Configuration["DATABASE_URL"];
-
             if (!string.IsNullOrEmpty(databaseUrl))
             {
                 // Environnement Render : PostgreSQL
