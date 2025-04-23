@@ -17,7 +17,7 @@ namespace PizzaStoreAPI
             {
                 options.AddPolicy(name: MyAllowSpecificOrigins, policy =>
                 {
-                    policy.WithOrigins("https://localhost:7157")
+                    policy.WithOrigins("https://pizzastoreapi.onrender.com")
                           .AllowAnyHeader()
                           .AllowAnyMethod();
                 });
