@@ -26,10 +26,19 @@ namespace PizzaStoreAPI
             // Connexion à la base de données
             string? connectionString;
             var databaseUrl = builder.Configuration["DATABASE_URL"];
-            connectionString = "Host=localhost;Port=5432;Database=dummy;Username=dummy;Password=dummy";
-            builder.Services.AddDbContext<PizzaDbContext>(options =>
-                options.UseNpgsql(connectionString)
-                       .ConfigureWarnings(w => w.Ignore(RelationalEventId.PendingModelChangesWarning)));
+            if (!string.IsNullOrEmpty(databaseUrl))
+            {
+                connectionString = ConvertDatabaseUrlToConnectionString(databaseUrl);
+                builder.Services.AddDbContext<PizzaDbContext>(options =>
+                    options.UseNpgsql(connectionString)
+                           .ConfigureWarnings(w => w.Ignore(RelationalEventId.PendingModelChangesWarning)));
+            }
+            else
+            {
+                connectionString = builder.Configuration.GetConnectionString("PizzaDb");
+                builder.Services.AddDbContext<PizzaDbContext>(options =>
+                    options.UseSqlServer(connectionString));
+            }
 
             // Fonction de conversion pour PostgreSQL (Render)
             string ConvertDatabaseUrlToConnectionString(string? databaseUrl)
