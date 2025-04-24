@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PizzaStoreApp.Client",
   "resources": {
-    "hash": "sha256-FwYf2rdhXDybb2w3DSL359Z6dBB0zH8Ln4FqTm0aIG0=",
+    "hash": "sha256-T3HanOceUR1FvYO/Ig7E6CZdfPtuDkOZaC2fYma2Ovo=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.Forms.sxuye9wrru.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.2036nvcbz8.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -18,8 +18,8 @@
       "Microsoft.Extensions.Primitives.wdgxpgsqcr.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.osc8jgovue.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.lsljofql11.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "PizzaStoreApp.Client.vccs3wfl4x.wasm": "PizzaStoreApp.Client.wasm",
-      "PizzaStoreApp.Shared.m0h14el7mn.wasm": "PizzaStoreApp.Shared.wasm",
+      "PizzaStoreApp.Client.dgl6k53hd7.wasm": "PizzaStoreApp.Client.wasm",
+      "PizzaStoreApp.Shared.449pxgnb92.wasm": "PizzaStoreApp.Shared.wasm",
       "System.Collections.Concurrent.7f0usc4ymu.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.ef1yu5ny8p.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.NonGeneric.6o2wb88be1.wasm": "System.Collections.NonGeneric.wasm",
@@ -90,8 +90,8 @@
       "Microsoft.Extensions.Primitives.wdgxpgsqcr.wasm": "sha256-zPXs1ZxaGv/gjScqkSbos0m3HyxJufpF3haxdyuT0QA=",
       "Microsoft.JSInterop.osc8jgovue.wasm": "sha256-yGWwokByYCIKRAlAW9aO0D6mYytcYnjvgXWf/gtKLls=",
       "Microsoft.JSInterop.WebAssembly.lsljofql11.wasm": "sha256-63bzxZLVvNOmTsso6iLrptxGmKBQh2HUIEGtPUrRPeQ=",
-      "PizzaStoreApp.Client.vccs3wfl4x.wasm": "sha256-cT/1xCC6hVffsrgaT5xxtCXsR84mvwHXLioqGGryrsg=",
-      "PizzaStoreApp.Shared.m0h14el7mn.wasm": "sha256-ZpieDLVKlssityzqlQ4kV3zP3+dUUJfwkKuMme+OpcU=",
+      "PizzaStoreApp.Client.dgl6k53hd7.wasm": "sha256-HeoSQbCkz0h0vjyzTzLACYQ0rL9G8xIFa0h3BVhMw0w=",
+      "PizzaStoreApp.Shared.449pxgnb92.wasm": "sha256-nNStUd7cRkPFeuapxTSSooOycZRMAOltJD9gXddo+EY=",
       "System.Collections.Concurrent.7f0usc4ymu.wasm": "sha256-o2kBnl2aFbVA1J1+xZn31vVNCUT+H1TecMQNTL3FKLs=",
       "System.Collections.Immutable.ef1yu5ny8p.wasm": "sha256-RsJ2q2FQEu/yI4DHjLL5PchzdAgg0kux7YfEYCGaNKg=",
       "System.Collections.NonGeneric.6o2wb88be1.wasm": "sha256-hiCNLBMli9ZrBjl0l9NVvcXG36xkGJF/znLqDS6yYxs=",
