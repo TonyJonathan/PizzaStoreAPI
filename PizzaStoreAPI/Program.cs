@@ -17,9 +17,13 @@ namespace PizzaStoreAPI
             {
                 options.AddPolicy(name: MyAllowSpecificOrigins, policy =>
                 {
-                    policy.WithOrigins("https://pizzastoreapp.netlify.app")
-                          .AllowAnyHeader()
-                          .AllowAnyMethod();
+                    policy.WithOrigins(
+               "https://localhost:7157", // Blazor local
+               "http://localhost:5245",  // Blazor HTTP local
+               "https://pizzastoreapp.netlify.app" // Netlify prod
+           )
+           .AllowAnyHeader()
+           .AllowAnyMethod();
                 });
             });
 
@@ -50,7 +54,7 @@ namespace PizzaStoreAPI
                 var userInfo = uri.UserInfo.Split(':');
 
                 var host = uri.Host;
-                var port = uri.Port > 0 ? uri.Port : 5432; // Défaut : 5432
+                var port = uri.Port > 0 ? uri.Port : 5432;
                 var db = uri.AbsolutePath.TrimStart('/');
                 var user = userInfo[0];
                 var pwd = userInfo[1];
@@ -77,6 +81,7 @@ namespace PizzaStoreAPI
                 app.UseHttpsRedirection();
             }
 
+            app.UseHttpsRedirection();
             app.UseCors(MyAllowSpecificOrigins);
             app.UseAuthorization();
             app.MapControllers();

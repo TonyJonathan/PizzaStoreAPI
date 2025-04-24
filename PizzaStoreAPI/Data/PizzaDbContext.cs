@@ -16,7 +16,7 @@ namespace PizzaStoreAPI.Data
         {
             modelBuilder.Entity<Pizza>()
                 .Property(p => p.Price)
-                .HasPrecision(10, 2); // max 99999999.99, avec 2 décimales
+                .HasPrecision(10, 2);
         }
     }
 }

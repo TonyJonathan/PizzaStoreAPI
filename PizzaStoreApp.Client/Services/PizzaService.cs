@@ -14,13 +14,13 @@ public class PizzaService
 
     public async Task<List<Pizza>> GetAllAsync()
     {
-        return await _http.GetFromJsonAsync<List<Pizza>>("https://pizzastoreapi.onrender.com/api/pizza")
+        return await _http.GetFromJsonAsync<List<Pizza>>("https://localhost:7016/api/pizza")
                ?? new List<Pizza>();
     }
 
     public async Task CreateAsync(Pizza pizza)
     {
-        var response = await _http.PostAsJsonAsync("https://pizzastoreapi.onrender.com/api/pizza", pizza);
+        var response = await _http.PostAsJsonAsync("https://localhost:7016/api/pizza", pizza);
         response.EnsureSuccessStatusCode();
     }
 

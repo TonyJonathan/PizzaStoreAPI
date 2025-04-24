@@ -4,10 +4,10 @@
 
 namespace PizzaStoreAPI.Migrations
 {
-    /// <inheritdoc />
+
     public partial class InitSQLServer : Migration
     {
-        /// <inheritdoc />
+
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -26,7 +26,6 @@ namespace PizzaStoreAPI.Migrations
                 });
         }
 
-        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
