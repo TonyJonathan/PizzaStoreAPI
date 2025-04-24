@@ -8,17 +8,19 @@ Un projet full-stack composé d'une API REST en ASP.NET Core et d'une interface 
 
 - ✅ API REST (GET, POST, PUT, DELETE) pour gérer les pizzas
 - ✅ Interface Web en Blazor WebAssembly
-- ✅ Stockage des données dans SQL Server via Entity Framework Core
-- ✅ Affichage, ajout, modification et suppression de pizzas
 - ✅ Validation côté client et serveur
 - ✅ Swagger UI pour tester l’API
+- ✅ Déploiement sur [Render](https://render.com/) pour l’API
+- ✅ Déploiement sur [Netlify](https://pizzastoreapp.netlify.app/) pour l’UI
+- ✅ Connexion conditionnelle à **SQL Server en local** et à **PostgreSQL en production (Render)**
 
 ---
 
 ## 🛠️ Stack
 
-- **Back-end** : ASP.NET Core, Entity Framework Core, SQL Server, Swagger
-- **Front-end** : Blazor WebAssembly, Razor Components, Bootstrap, CSS3
+- **Back-end** : ASP.NET Core, Entity Framework Core, SQL Server (local), PostgreSQL (Render), Swagger
+- **Front-end** : Blazor WebAssembly, Razor Components, CSS3
+- **Hébergement** : Render (API), Netlify (client)
 
 ---
 
@@ -33,6 +35,7 @@ PizzaStoreApp/
 │   │   └── Pizza.cs
 │   ├── Data/
 │   │   └── PizzaDbContext.cs
+│   ├── Migrations/
 │   ├── appsettings.json
 │   └── Program.cs
 │
@@ -44,3 +47,5 @@ PizzaStoreApp/
 │   ├── wwwroot/
 │   │   └── style.css
 │   └── Program.cs
+│
+└── PizzaStoreApp.sln            # Solution regroupant API et client
