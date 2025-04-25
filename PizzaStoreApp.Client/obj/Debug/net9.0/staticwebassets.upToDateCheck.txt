@@ -25,6 +25,7 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\wwwroot\lib\boots
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\wwwroot\scripts.js
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
@@ -94,3 +95,4 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\sample-data\weather.json
+wwwroot\scripts.js
