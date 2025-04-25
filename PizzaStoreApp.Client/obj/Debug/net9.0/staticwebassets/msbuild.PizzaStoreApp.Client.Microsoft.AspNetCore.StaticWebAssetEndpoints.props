@@ -576,17 +576,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"poxw9jpfdi"},{"Name":"integrity","Value":"sha256-iZcL2JSyajZxM05PAUphi1Sp0IPq2NLbgtC/V89Kjtw="},{"Name":"label","Value":"lib/bootstrap/dist/js/bootstrap.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"145401"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iZcL2JSyajZxM05PAUphi1Sp0IPq2NLbgtC/V89Kjtw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 12:30:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="PizzaStoreApp.Client.gfald2vqa8.styles.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PizzaStoreApp.Client.styles.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gfald2vqa8"},{"Name":"integrity","Value":"sha256-DA3B6ii4de1de3a5REfEU6t06Pp5r8p/ncBTOHCa5jY="},{"Name":"label","Value":"PizzaStoreApp.Client.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7098"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DA3B6ii4de1de3a5REfEU6t06Pp5r8p/ncBTOHCa5jY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 01:13:03 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="PizzaStoreApp.Client.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PizzaStoreApp.Client.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DA3B6ii4de1de3a5REfEU6t06Pp5r8p/ncBTOHCa5jY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7098"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DA3B6ii4de1de3a5REfEU6t06Pp5r8p/ncBTOHCa5jY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 01:13:03 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V2PoOI2QZX7n50rDJGz4jXBwqWn/wwhU88HiE3wte0Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022V2PoOI2QZX7n50rDJGz4jXBwqWn/wwhU88HiE3wte0Q=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 13:13:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="PizzaStoreApp.Client.t7h6gk288n.styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PizzaStoreApp.Client.styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t7h6gk288n"},{"Name":"integrity","Value":"sha256-V2PoOI2QZX7n50rDJGz4jXBwqWn/wwhU88HiE3wte0Q="},{"Name":"label","Value":"PizzaStoreApp.Client.styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022V2PoOI2QZX7n50rDJGz4jXBwqWn/wwhU88HiE3wte0Q=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 13:13:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="sample-data/weather.iag0ou56lh.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sample-data\weather.json'))</AssetFile>

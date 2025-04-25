@@ -42,21 +42,27 @@ li > p
     text-align: center; 
 }
 
-    li > div
-    {
-        display: flex; 
-        justify-content: center; 
-        align-items: center; 
-        width: 200px;
-        text-align: center;
-    }
+li > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    text-align: center;
+}
 
-        li > div > button {
-            background: none;
-            border: none;
-            cursor: pointer;
-            margin-top: -19px;
-        }
+li > div > button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-top: -19px;
+}
+
+li > div > svg {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-top: -19px;
+}
 
 li > p:first-child  
 {
@@ -129,4 +135,9 @@ ul
 
 .update:hover {
     filter: invert(61%) sepia(94%) saturate(661%) hue-rotate(89deg) brightness(95%) contrast(102%);
+}
+
+.grayed:hover {
+    filter: none; 
+    cursor: default; 
 }

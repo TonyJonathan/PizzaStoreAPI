@@ -876,8 +876,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>gfald2vqa8</Fingerprint>
-      <Integrity>DA3B6ii4de1de3a5REfEU6t06Pp5r8p/ncBTOHCa5jY=</Integrity>
+      <Fingerprint>t7h6gk288n</Fingerprint>
+      <Integrity>V2PoOI2QZX7n50rDJGz4jXBwqWn/wwhU88HiE3wte0Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PizzaStoreApp.Client.styles.css'))</OriginalItemSpec>

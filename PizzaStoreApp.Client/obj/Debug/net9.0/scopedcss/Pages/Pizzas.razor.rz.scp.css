@@ -42,21 +42,27 @@ li > p[b-ml1zlit7v8]
     text-align: center; 
 }
 
-    li > div[b-ml1zlit7v8]
-    {
-        display: flex; 
-        justify-content: center; 
-        align-items: center; 
-        width: 200px;
-        text-align: center;
-    }
+li > div[b-ml1zlit7v8] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    text-align: center;
+}
 
-        li > div > button[b-ml1zlit7v8] {
-            background: none;
-            border: none;
-            cursor: pointer;
-            margin-top: -19px;
-        }
+li > div > button[b-ml1zlit7v8] {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-top: -19px;
+}
+
+li > div > svg[b-ml1zlit7v8] {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-top: -19px;
+}
 
 li > p:first-child[b-ml1zlit7v8]  
 {
@@ -129,4 +135,9 @@ ul[b-ml1zlit7v8]
 
 .update:hover[b-ml1zlit7v8] {
     filter: invert(61%) sepia(94%) saturate(661%) hue-rotate(89deg) brightness(95%) contrast(102%);
+}
+
+.grayed:hover[b-ml1zlit7v8] {
+    filter: none; 
+    cursor: default; 
 }
