@@ -876,8 +876,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>alt9jjzcn9</Fingerprint>
-      <Integrity>Dk2t3Eu/J4tChgsZnWUj5XjBqgbK9heIC+SbA7i/JUw=</Integrity>
+      <Fingerprint>fpkfr3t8r7</Fingerprint>
+      <Integrity>bTLDXFDFfU/NNbhu9rIV4miWNXa10e8/7thyioxucMs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PizzaStoreApp.Client.styles.css'))</OriginalItemSpec>
@@ -912,8 +912,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ixerii9ii6</Fingerprint>
-      <Integrity>Vm6SmIL+tKJbdMfwmIOhc10x1dVVDVpMY0GmYIdR1G8=</Integrity>
+      <Fingerprint>wm1u1pkopx</Fingerprint>
+      <Integrity>yEgZuH0A9mNc/Ko8YBYzP0IXzLJvCYhjlffawEYkdO8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scripts.js'))</OriginalItemSpec>

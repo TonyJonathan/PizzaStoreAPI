@@ -18,21 +18,21 @@ else
         @if (pizzas == null)
         {
 
-            <h3>Liste des pizzas 🍕</h3>
+            <h1 id="title">Liste des pizzas 🍕</h1>
             <p>Chargement...</p>
 
         }
         else if (!pizzas.Any())
         {
 
-            <h3>Liste des pizzas 🍕</h3>
+            <h1 id="title">Liste des pizzas 🍕</h1>
             <p>Aucune pizza trouvée</p>
 
         }
         else
         {   
 
-            <h3>Liste des pizzas 🍕</h3>
+            <h1 id="title">Liste des pizzas 🍕</h1>
             <div class="pizza-caracteristics">
                 <h4>Nom</h4>
                 <h4>Prix</h4>
@@ -81,7 +81,7 @@ else
 
         @if (!showForm)
         {
-            <button class="show" @onclick="ToggleForm">Ajouter</button>
+            <button class="show" id="Add" @onclick="ToggleForm">Ajouter</button>
         }
         else
         {
@@ -178,8 +178,11 @@ else
         if(showForm)
         {
             await JS.InvokeVoidAsync("scrollToBottom");
+        }else
+        {
+            await JS.InvokeVoidAsync("scrollToElement", "title"); 
         }
-        
+
     }
 
 
@@ -196,7 +199,6 @@ else
         {
             error = ex.Message;
         }
-        Console.WriteLine(id);
     }
 
     void StartEditing(Pizza pizza)
