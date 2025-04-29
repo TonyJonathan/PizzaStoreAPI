@@ -10,7 +10,7 @@ Un projet full-stack composé d'une API REST en ASP.NET Core et d'une interface 
 - ✅ Interface Web en Blazor WebAssembly
 - ✅ Validation côté client et serveur
 - ✅ Swagger UI pour tester l’API
-- ✅ Déploiement sur [Render](https://render.com/) pour l’API
+- ✅ Déploiement sur [Render]([https://render.com/](https://pizzastoreapi.onrender.com/api/pizza)) pour l’API
 - ✅ Déploiement sur [Netlify](https://pizzastoreapp.netlify.app/) pour l’UI
 - ✅ Connexion conditionnelle à **SQL Server en local** et à **PostgreSQL en production (Render)**
 
