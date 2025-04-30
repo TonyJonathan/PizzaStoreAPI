@@ -108,7 +108,7 @@ else
 
                 <div class="mb-3">
                     <label>Prix (€) :</label>
-                    <InputNumber class="form-control" placeholder="Entre 8€ et 18€" @bind-Value="formPizza.Price" />
+                    <InputNumber class="form-control" placeholder="Entre 8€ et 18€" @bind-Value="formPizza.Price" oninput="@OnPriceChanged" />
 
                     @if (formPizza.Price < 8 && formPizza.Price != null)
                     {
@@ -242,6 +242,14 @@ else
         formPizza.Name = e.Value?.ToString(); 
     }
 
+    private void OnPriceChanged(ChangeEventArgs e)
+    {
+        if (decimal.TryParse(e.Value?.ToString(), out var result))
+        {
+            formPizza.Price = result;
+            Console.WriteLine($"Prix saisi : {formPizza.Price} €");
+        }
 
+    }
 
 }
