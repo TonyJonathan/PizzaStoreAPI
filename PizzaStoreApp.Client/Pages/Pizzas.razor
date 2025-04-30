@@ -93,7 +93,7 @@ else
 
                 <div class="mb-3">
                     <label>Nom :</label>
-                    <InputText class="form-control" placeholder="Max. 20 caractères" @bind-Value="formPizza.Name" />
+                    <InputText class="form-control" placeholder="Max. 20 caractères" @bind-Value="formPizza.Name" oninput="@OnNameChanged" />
 
                     @if (!string.IsNullOrWhiteSpace(formPizza.Name) && formPizza.Name.Length < 2)
                     {
@@ -236,6 +236,12 @@ else
             error = ex.Message;
         }
     }
+
+    private void OnNameChanged(ChangeEventArgs e)
+    {
+        formPizza.Name = e.Value?.ToString(); 
+    }
+
 
 
 }
