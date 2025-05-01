@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PizzaStoreApp.Client",
   "resources": {
-    "hash": "sha256-27XhHyaFvQrjVVINyw28zunwx8gFgDCjbQ20yxmx+9I=",
+    "hash": "sha256-BpcqEaSgLij+bQwk0F7rLQtP2i7nOx4WVOLyK/loYYY=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.gf26ou9jj9.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.v3fd2n5hlr.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,10 +201,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "PizzaStoreApp.Shared.449pxgnb92.wasm": "PizzaStoreApp.Shared.wasm",
-      "PizzaStoreApp.Shared.8k786rodii.pdb": "PizzaStoreApp.Shared.pdb",
-      "PizzaStoreApp.Client.dgl6k53hd7.wasm": "PizzaStoreApp.Client.wasm",
-      "PizzaStoreApp.Client.uyhsb0wdsn.pdb": "PizzaStoreApp.Client.pdb"
+      "PizzaStoreApp.Shared.xf4ot2ns6k.wasm": "PizzaStoreApp.Shared.wasm",
+      "PizzaStoreApp.Shared.zvlum5w304.pdb": "PizzaStoreApp.Shared.pdb",
+      "PizzaStoreApp.Client.8fs9orhzmv.wasm": "PizzaStoreApp.Client.wasm",
+      "PizzaStoreApp.Client.sxbfcrf0wp.pdb": "PizzaStoreApp.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -414,12 +414,12 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "PizzaStoreApp.Shared.449pxgnb92.wasm": "sha256-nNStUd7cRkPFeuapxTSSooOycZRMAOltJD9gXddo+EY=",
-      "PizzaStoreApp.Client.dgl6k53hd7.wasm": "sha256-HeoSQbCkz0h0vjyzTzLACYQ0rL9G8xIFa0h3BVhMw0w="
+      "PizzaStoreApp.Shared.xf4ot2ns6k.wasm": "sha256-fSFNnGqRM3hR40TSt700D6x1g2i0dnuNv7kg4nwDu18=",
+      "PizzaStoreApp.Client.8fs9orhzmv.wasm": "sha256-JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534="
     },
     "pdb": {
-      "PizzaStoreApp.Shared.8k786rodii.pdb": "sha256-SKpLc3tmHRdSJ/p9E46j/eXK8EAAjVql9I6+cDYxLc8=",
-      "PizzaStoreApp.Client.uyhsb0wdsn.pdb": "sha256-9nSRunpSJzUffZlix4Fcp77/uZYs3FAQxAWLy/2SvYw="
+      "PizzaStoreApp.Shared.zvlum5w304.pdb": "sha256-sWsUtclgosKmV0xuJ77oUvPuWhGHqyO6EvmckGJm4oU=",
+      "PizzaStoreApp.Client.sxbfcrf0wp.pdb": "sha256-0E184mGm1xHW3KnI/YPOnG+gFqGJqAFVdzF4A+1FQnM="
     }
   },
   "cacheBootResources": true,

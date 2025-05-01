@@ -1,11 +1,14 @@
-﻿namespace PizzaStoreAPI.Models;
+﻿
+using Microsoft.EntityFrameworkCore;
+
+namespace PizzaStoreAPI.Models;
 
 
+[Index(nameof(Name), IsUnique = true)]
 public class Pizza
 {
     public int Id { get; set; }
-    public string? Name { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public decimal? Price { get; set; }
     public bool IsGlutenFree { get; set; }
-
-    public decimal Price { get; set; } 
 }

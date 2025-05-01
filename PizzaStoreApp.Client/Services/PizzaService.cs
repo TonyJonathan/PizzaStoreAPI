@@ -20,7 +20,7 @@ public class PizzaService
 
     public async Task CreateAsync(Pizza pizza)
     {
-        var response = await _http.PostAsJsonAsync("https://localhost:7016/api/pizza", pizza);
+        var response = await _http.PostAsJsonAsync("https://https://localhost:7016/api/pizza", pizza);
         response.EnsureSuccessStatusCode();
     }
 

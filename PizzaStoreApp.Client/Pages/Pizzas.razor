@@ -11,7 +11,7 @@
 {
     <p class="text-danger">Erreur : @error</p>
 }
-else 
+else
 {
     <div class="container">
 
@@ -30,7 +30,7 @@ else
 
         }
         else
-        {   
+        {
 
             <h1 id="title">Liste des pizzas 🍕</h1>
             <div class="pizza-caracteristics">
@@ -47,7 +47,7 @@ else
                         <p>@pizza.Name</p>
                         <p>@pizza.Price €</p>
                         <p>@(@pizza.IsGlutenFree ? "✅" : "❌")</p>
-                        @if(!showForm)
+                        @if (!showForm)
                         {
                             <div>
                                 <button class="update" @onclick="() => StartEditing(pizza)">
@@ -175,12 +175,13 @@ else
         pizzaToEdit = null;
         formPizza = new();
 
-        if(showForm)
+        if (showForm)
         {
             await JS.InvokeVoidAsync("scrollToBottom");
-        }else
+        }
+        else
         {
-            await JS.InvokeVoidAsync("scrollToElement", "title"); 
+            await JS.InvokeVoidAsync("scrollToElement", "title");
         }
 
     }
@@ -239,7 +240,7 @@ else
 
     private void OnNameChanged(ChangeEventArgs e)
     {
-        formPizza.Name = e.Value?.ToString(); 
+        formPizza.Name = e.Value?.ToString();
     }
 
     private void OnPriceChanged(ChangeEventArgs e)
