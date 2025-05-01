@@ -155,9 +155,9 @@ else
     bool IsValidForm =>
         formPizza.Price is >= 8 and <= 18 &&
         !string.IsNullOrWhiteSpace(formPizza.Name) &&
-        formPizza.Name.Length is >= 2 and <= 20 && !NameExists;
+        formPizza.Name.Length is >= 2 and <= 20;
 
-    private bool NameExists =>
+    bool NameExists =>
      pizzas != null &&
      pizzas.Any(p =>
          string.Equals(p.Name.Trim(), formPizza.Name.Trim(), StringComparison.OrdinalIgnoreCase)
@@ -191,6 +191,7 @@ else
 
         if (showForm)
         {
+            
             await JS.InvokeVoidAsync("scrollToBottom");
         }
         else
@@ -262,7 +263,6 @@ else
         if (decimal.TryParse(e.Value?.ToString(), out var result))
         {
             formPizza.Price = result;
-            Console.WriteLine($"Prix saisi : {formPizza.Price} €");
         }
 
     }
