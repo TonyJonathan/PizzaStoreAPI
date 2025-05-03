@@ -10,3 +10,4 @@ C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\refint\PizzaStoreApp.Shared.dll
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\PizzaStoreApp.Shared.pdb
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\ref\PizzaStoreApp.Shared.dll
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Shared\obj\Release\net9.0\PizzaStoreApp.Shared.csproj.AssemblyReference.cache

@@ -8227,13 +8227,13 @@
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.br",
+      "Route": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000081812976"
+          "Quality": "0.000081492951"
         }
       ],
       "ResponseHeaders": [
@@ -8251,7 +8251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12222"
+          "Value": "12270"
         },
         {
           "Name": "Content-Type",
@@ -8259,15 +8259,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"71hHu2CdqYHtajUvZFKC2aY26ub6MGQWN3/NOgIyqUE=\""
+          "Value": "\"CFGY8dAAz3ckOecfUB5L5OVY0se0yvq36W4fz1Vl+7M=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534=\""
+          "Value": "W/\"3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8277,11 +8277,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8fs9orhzmv"
+          "Value": "k4gywgenx5"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534="
+          "Value": "sha256-3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0="
         },
         {
           "Name": "label",
@@ -8290,13 +8290,13 @@
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.gz",
+      "Route": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000069628185"
+          "Quality": "0.000069642733"
         }
       ],
       "ResponseHeaders": [
@@ -8314,7 +8314,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14361"
+          "Value": "14358"
         },
         {
           "Name": "Content-Type",
@@ -8322,15 +8322,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r4AV+ylNHGQ883ZkSGLMMuVLaBIuwg9hDNKCFx8IqlE=\""
+          "Value": "\"lMScb7Riw72oCzxQIRKfSCAamibXCUcGw7+Sm0Be740=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534=\""
+          "Value": "W/\"3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8340,11 +8340,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8fs9orhzmv"
+          "Value": "k4gywgenx5"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534="
+          "Value": "sha256-3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0="
         },
         {
           "Name": "label",
@@ -8353,8 +8353,8 @@
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm",
+      "Route": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8375,21 +8375,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534=\""
+          "Value": "\"3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8fs9orhzmv"
+          "Value": "k4gywgenx5"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534="
+          "Value": "sha256-3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0="
         },
         {
           "Name": "label",
@@ -8398,8 +8398,8 @@
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.br",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.br",
+      "Route": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.br",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8416,7 +8416,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12222"
+          "Value": "12270"
         },
         {
           "Name": "Content-Type",
@@ -8424,11 +8424,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"71hHu2CdqYHtajUvZFKC2aY26ub6MGQWN3/NOgIyqUE=\""
+          "Value": "\"CFGY8dAAz3ckOecfUB5L5OVY0se0yvq36W4fz1Vl+7M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8438,11 +8438,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8fs9orhzmv"
+          "Value": "k4gywgenx5"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-71hHu2CdqYHtajUvZFKC2aY26ub6MGQWN3/NOgIyqUE="
+          "Value": "sha256-CFGY8dAAz3ckOecfUB5L5OVY0se0yvq36W4fz1Vl+7M="
         },
         {
           "Name": "label",
@@ -8451,8 +8451,8 @@
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.gz",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.gz",
+      "Route": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.gz",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8469,7 +8469,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14361"
+          "Value": "14358"
         },
         {
           "Name": "Content-Type",
@@ -8477,11 +8477,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r4AV+ylNHGQ883ZkSGLMMuVLaBIuwg9hDNKCFx8IqlE=\""
+          "Value": "\"lMScb7Riw72oCzxQIRKfSCAamibXCUcGw7+Sm0Be740=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8491,11 +8491,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8fs9orhzmv"
+          "Value": "k4gywgenx5"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r4AV+ylNHGQ883ZkSGLMMuVLaBIuwg9hDNKCFx8IqlE="
+          "Value": "sha256-lMScb7Riw72oCzxQIRKfSCAamibXCUcGw7+Sm0Be740="
         },
         {
           "Name": "label",
@@ -8505,12 +8505,12 @@
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.br",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000081812976"
+          "Quality": "0.000081492951"
         }
       ],
       "ResponseHeaders": [
@@ -8528,7 +8528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12222"
+          "Value": "12270"
         },
         {
           "Name": "Content-Type",
@@ -8536,15 +8536,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"71hHu2CdqYHtajUvZFKC2aY26ub6MGQWN3/NOgIyqUE=\""
+          "Value": "\"CFGY8dAAz3ckOecfUB5L5OVY0se0yvq36W4fz1Vl+7M=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534=\""
+          "Value": "W/\"3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8554,18 +8554,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534="
+          "Value": "sha256-3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.gz",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000069628185"
+          "Quality": "0.000069642733"
         }
       ],
       "ResponseHeaders": [
@@ -8583,7 +8583,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14361"
+          "Value": "14358"
         },
         {
           "Name": "Content-Type",
@@ -8591,15 +8591,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r4AV+ylNHGQ883ZkSGLMMuVLaBIuwg9hDNKCFx8IqlE=\""
+          "Value": "\"lMScb7Riw72oCzxQIRKfSCAamibXCUcGw7+Sm0Be740=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534=\""
+          "Value": "W/\"3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8609,13 +8609,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534="
+          "Value": "sha256-3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8636,23 +8636,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534=\""
+          "Value": "\"3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JCxC5b4LQ9AG23HR+eCywriw04Jv3MTtgB/kKWN0534="
+          "Value": "sha256-3HlJ4RPOl2iG99R4QhTTQkiCBPH18ELDm9w8YQsD7L0="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm.br",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.br",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8669,7 +8669,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12222"
+          "Value": "12270"
         },
         {
           "Name": "Content-Type",
@@ -8677,11 +8677,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"71hHu2CdqYHtajUvZFKC2aY26ub6MGQWN3/NOgIyqUE=\""
+          "Value": "\"CFGY8dAAz3ckOecfUB5L5OVY0se0yvq36W4fz1Vl+7M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8691,13 +8691,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-71hHu2CdqYHtajUvZFKC2aY26ub6MGQWN3/NOgIyqUE="
+          "Value": "sha256-CFGY8dAAz3ckOecfUB5L5OVY0se0yvq36W4fz1Vl+7M="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm.gz",
-      "AssetFile": "_framework/PizzaStoreApp.Client.8fs9orhzmv.wasm.gz",
+      "AssetFile": "_framework/PizzaStoreApp.Client.k4gywgenx5.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8714,7 +8714,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14361"
+          "Value": "14358"
         },
         {
           "Name": "Content-Type",
@@ -8722,11 +8722,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r4AV+ylNHGQ883ZkSGLMMuVLaBIuwg9hDNKCFx8IqlE=\""
+          "Value": "\"lMScb7Riw72oCzxQIRKfSCAamibXCUcGw7+Sm0Be740=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8736,7 +8736,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r4AV+ylNHGQ883ZkSGLMMuVLaBIuwg9hDNKCFx8IqlE="
+          "Value": "sha256-lMScb7Riw72oCzxQIRKfSCAamibXCUcGw7+Sm0Be740="
         }
       ]
     },
@@ -23669,17 +23669,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PVbvSMMyMcBhNzqftZ+aEiJgzFPUhCGT2xmRMxAZuzQ=\""
+          "Value": "\"03zH1Ygq4f5mwQ+ahr9akuYgG/EiMEhk3Rhg420rc+Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:27:08 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PVbvSMMyMcBhNzqftZ+aEiJgzFPUhCGT2xmRMxAZuzQ="
+          "Value": "sha256-03zH1Ygq4f5mwQ+ahr9akuYgG/EiMEhk3Rhg420rc+Y="
         }
       ]
     },
@@ -23716,15 +23716,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Opm/MkXOZeWgoaHwQOah8aVLxXVL3qGA5do8pmEzPwk=\""
+          "Value": "\"RKDlb+d5/DOCzaojWJGuHqgq1VqdIxo9kqHUMUawng4=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PVbvSMMyMcBhNzqftZ+aEiJgzFPUhCGT2xmRMxAZuzQ=\""
+          "Value": "W/\"03zH1Ygq4f5mwQ+ahr9akuYgG/EiMEhk3Rhg420rc+Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:27:08 GMT"
         },
         {
           "Name": "Vary",
@@ -23734,7 +23734,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PVbvSMMyMcBhNzqftZ+aEiJgzFPUhCGT2xmRMxAZuzQ="
+          "Value": "sha256-03zH1Ygq4f5mwQ+ahr9akuYgG/EiMEhk3Rhg420rc+Y="
         }
       ]
     },
@@ -23745,7 +23745,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000291036088"
+          "Quality": "0.000290951411"
         }
       ],
       "ResponseHeaders": [
@@ -23763,7 +23763,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3435"
+          "Value": "3436"
         },
         {
           "Name": "Content-Type",
@@ -23771,15 +23771,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3V9G8AcwfLjUupwAMeEiIGgQ7HHQBdTtCeu8gzm93Sg=\""
+          "Value": "\"ZEvGDm7PkAi9dRJEY7QCBnuS/COmlWi0c8PYt4+PuDg=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PVbvSMMyMcBhNzqftZ+aEiJgzFPUhCGT2xmRMxAZuzQ=\""
+          "Value": "W/\"03zH1Ygq4f5mwQ+ahr9akuYgG/EiMEhk3Rhg420rc+Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:27:08 GMT"
         },
         {
           "Name": "Vary",
@@ -23789,7 +23789,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PVbvSMMyMcBhNzqftZ+aEiJgzFPUhCGT2xmRMxAZuzQ="
+          "Value": "sha256-03zH1Ygq4f5mwQ+ahr9akuYgG/EiMEhk3Rhg420rc+Y="
         }
       ]
     },
@@ -23820,11 +23820,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Opm/MkXOZeWgoaHwQOah8aVLxXVL3qGA5do8pmEzPwk=\""
+          "Value": "\"RKDlb+d5/DOCzaojWJGuHqgq1VqdIxo9kqHUMUawng4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:27:08 GMT"
         },
         {
           "Name": "Vary",
@@ -23834,7 +23834,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Opm/MkXOZeWgoaHwQOah8aVLxXVL3qGA5do8pmEzPwk="
+          "Value": "sha256-RKDlb+d5/DOCzaojWJGuHqgq1VqdIxo9kqHUMUawng4="
         }
       ]
     },
@@ -23857,7 +23857,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3435"
+          "Value": "3436"
         },
         {
           "Name": "Content-Type",
@@ -23865,11 +23865,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3V9G8AcwfLjUupwAMeEiIGgQ7HHQBdTtCeu8gzm93Sg=\""
+          "Value": "\"ZEvGDm7PkAi9dRJEY7QCBnuS/COmlWi0c8PYt4+PuDg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:07:45 GMT"
+          "Value": "Wed, 30 Apr 2025 22:27:08 GMT"
         },
         {
           "Name": "Vary",
@@ -23879,7 +23879,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3V9G8AcwfLjUupwAMeEiIGgQ7HHQBdTtCeu8gzm93Sg="
+          "Value": "sha256-ZEvGDm7PkAi9dRJEY7QCBnuS/COmlWi0c8PYt4+PuDg="
         }
       ]
     },

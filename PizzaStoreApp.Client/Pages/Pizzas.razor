@@ -155,7 +155,7 @@ else
     bool IsValidForm =>
         formPizza.Price is >= 8 and <= 18 &&
         !string.IsNullOrWhiteSpace(formPizza.Name) &&
-        formPizza.Name.Length is >= 2 and <= 20;
+        formPizza.Name.Length is >= 2 and <= 20 && !NameExists;
 
     bool NameExists =>
      pizzas != null &&

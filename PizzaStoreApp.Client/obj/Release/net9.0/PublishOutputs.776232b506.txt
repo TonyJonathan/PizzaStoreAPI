@@ -1,4 +1,13 @@
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\web.config
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\dist\dist\dist\PizzaStoreApp.Client.staticwebassets.endpoints.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\dist\dist\dist\wwwroot\sample-data\weather.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\dist\dist\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\dist\dist\PizzaStoreApp.Client.staticwebassets.endpoints.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\dist\dist\wwwroot\sample-data\weather.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\dist\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\dist\PizzaStoreApp.Client.staticwebassets.endpoints.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\dist\wwwroot\sample-data\weather.json
+C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\dist\wwwroot\_framework\blazor.boot.json
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\PizzaStoreApp.Client.staticwebassets.endpoints.json
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\wwwroot\sample-data\weather.json
 C:\Users\Tonyb\source\repos\PizzaStoreApp\PizzaStoreApp.Client\dist\dist\dist\dist\dist\wwwroot\_framework\blazor.boot.json
