@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PizzaStoreAPI.Models;
+using PizzaStoreApp.Shared.Models; 
 using PizzaStoreAPI.Data; 
 using Microsoft.EntityFrameworkCore;
 
@@ -20,7 +20,7 @@ public class PizzaController : ControllerBase
     public async Task<ActionResult<List<Pizza>>> GetAll()
     {
         var pizzas = await _context.Pizzas.ToListAsync();
-        return pizzas; // même s’il est vide, c’est une réponse 200 OK
+        return pizzas; 
     }
 
 
@@ -41,7 +41,7 @@ public class PizzaController : ControllerBase
         _context.Pizzas.Add(pizza);
         await _context.SaveChangesAsync();
 
-        return CreatedAtAction(nameof(Get), new { id = pizza.Id }, pizza); 
+        return CreatedAtAction(nameof(Get), new { id = pizza.Id }, pizza);
     }
 
     [HttpPut("{id}")]

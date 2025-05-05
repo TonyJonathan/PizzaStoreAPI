@@ -1,6 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PizzaStoreApp.Shared.shared;
-
 
 namespace PizzaStoreApp.Shared.Models;
 

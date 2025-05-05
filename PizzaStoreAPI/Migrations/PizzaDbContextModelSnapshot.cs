@@ -21,7 +21,7 @@ namespace PizzaStoreAPI.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("PizzaStoreAPI.Models.Pizza", b =>
+            modelBuilder.Entity("PizzaStoreApp.Shared.Models.Pizza", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -37,15 +37,67 @@ namespace PizzaStoreAPI.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<decimal?>("Price")
-                        .HasPrecision(10, 2)
-                        .HasColumnType("decimal(10,2)");
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
                     b.HasIndex("Name")
                         .IsUnique();
 
+                    b.HasIndex("UserId");
+
                     b.ToTable("Pizzas");
+                });
+
+            modelBuilder.Entity("PizzaStoreApp.Shared.Models.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<byte[]>("PasswordHash")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<byte[]>("PasswordSalt")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Username")
+                        .IsUnique();
+
+                    b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("PizzaStoreApp.Shared.Models.Pizza", b =>
+                {
+                    b.HasOne("PizzaStoreApp.Shared.Models.User", "User")
+                        .WithMany("Pizzas")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("PizzaStoreApp.Shared.Models.User", b =>
+                {
+                    b.Navigation("Pizzas");
                 });
 #pragma warning restore 612, 618
         }
