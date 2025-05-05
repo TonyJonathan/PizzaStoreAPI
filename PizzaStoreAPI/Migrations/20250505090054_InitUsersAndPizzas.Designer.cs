@@ -11,8 +11,8 @@ using PizzaStoreAPI.Data;
 namespace PizzaStoreAPI.Migrations
 {
     [DbContext(typeof(PizzaDbContext))]
-    [Migration("20250503231852_AddUserTable")]
-    partial class AddUserTable
+    [Migration("20250505090054_InitUsersAndPizzas")]
+    partial class InitUsersAndPizzas
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -40,7 +40,8 @@ namespace PizzaStoreAPI.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<decimal?>("Price")
-                        .HasColumnType("decimal(18,2)");
+                        .HasPrecision(10, 2)
+                        .HasColumnType("decimal(10,2)");
 
                     b.Property<int>("UserId")
                         .HasColumnType("int");
@@ -65,7 +66,7 @@ namespace PizzaStoreAPI.Migrations
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<byte[]>("PasswordHash")
                         .IsRequired()
@@ -80,6 +81,9 @@ namespace PizzaStoreAPI.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("Email")
+                        .IsUnique();
 
                     b.HasIndex("Username")
                         .IsUnique();

@@ -20,6 +20,10 @@ namespace PizzaStoreAPI.Data
                 .IsUnique();
 
                 entity
+                .HasIndex(u => u.Email)
+                .IsUnique();
+
+                entity
                     .HasMany(u => u.Pizzas)
                     .WithOne(p => p.User)
                     .HasForeignKey(p => p.UserId)

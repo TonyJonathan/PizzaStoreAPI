@@ -45,6 +45,12 @@ public class UserController : ControllerBase
             return Conflict("Username already exists.");
         }
 
+        if (await db.Users.AnyAsync(u => u.Email == dto.Email))
+        {
+            return Conflict("Email already exists.");
+        }
+
+
         // Hasher le mot de passe
         CreatePasswordHash(dto.Password, out byte[] hash, out byte[] salt);
 
