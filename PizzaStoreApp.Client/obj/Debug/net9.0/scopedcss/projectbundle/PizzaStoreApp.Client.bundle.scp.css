@@ -356,3 +356,29 @@ ul[b-ml1zlit7v8]
     filter: none; 
     cursor: default; 
 }
+/* /Pages/Register.razor.rz.scp.css */
+.register-container[b-pu4d8i182m] {
+    max-width: 400px;
+    margin: 5rem auto;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.register-container h3[b-pu4d8i182m] {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.register-container a[b-pu4d8i182m] {
+    display: block;
+    text-align: center;
+}
+
+.inscription-button[b-pu4d8i182m] {
+    margin-top: 15px;
+
+
+    width: 100%;
+}

@@ -42,12 +42,12 @@ public class UserController : ControllerBase
     {
         if (await db.Users.AnyAsync(u => u.Username == dto.Username))
         {
-            return Conflict("Username already exists.");
+            return Conflict("Nom d'utilisateur déjà utilisé.");
         }
 
         if (await db.Users.AnyAsync(u => u.Email == dto.Email))
         {
-            return Conflict("Email already exists.");
+            return Conflict("Adresse email déjà utilisée.");
         }
 
 

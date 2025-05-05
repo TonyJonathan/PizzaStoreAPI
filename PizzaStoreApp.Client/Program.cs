@@ -14,6 +14,7 @@ builder.Services.AddScoped(sp => new HttpClient
 });
 
 builder.Services.AddScoped<PizzaService>();
+builder.Services.AddScoped<UserService>();
 
 
 
