@@ -50,8 +50,6 @@ public class UserController : ControllerBase
             return Conflict("Adresse email déjà utilisée.");
         }
 
-
-        // Hasher le mot de passe
         CreatePasswordHash(dto.Password, out byte[] hash, out byte[] salt);
 
         var user = new User
