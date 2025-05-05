@@ -1,3 +1,4 @@
+using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using PizzaStoreApp.Client;
@@ -15,6 +16,7 @@ builder.Services.AddScoped(sp => new HttpClient
 
 builder.Services.AddScoped<PizzaService>();
 builder.Services.AddScoped<UserService>();
+builder.Services.AddBlazoredLocalStorage();
 
 
 

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PizzaStoreAPI.Data;
 using PizzaStoreAPI.Services;
@@ -9,6 +10,7 @@ using System.Security.Cryptography;
 namespace PizzaStoreAPI.Controllers;
 [ApiController]
 [Route("api/[controller]")]
+
 
 public class UserController : ControllerBase
 {
@@ -39,6 +41,7 @@ public class UserController : ControllerBase
     }
 
     [HttpPost]
+    [AllowAnonymous]
     public async Task<ActionResult<User>> Create(RegisterUserDto dto)
     {
         if (await db.Users.AnyAsync(u => u.Username == dto.Username))
@@ -75,9 +78,22 @@ public class UserController : ControllerBase
     }
 
     [HttpPost("login")]
+    [AllowAnonymous]
     public async Task<IActionResult> Login(LoginDto dto, [FromServices] JwtService jwtService)
     {
         var user = await db.Users.FirstOrDefaultAsync(u => u.Username == dto.Username);
+
+        if (user is null)
+        {
+            Console.WriteLine("❌ Utilisateur introuvable");
+            return Unauthorized("Utilisateur introuvable");
+        }
+
+        if (!VerifyPassword(dto.Password, user.PasswordHash, user.PasswordSalt))
+        {
+            Console.WriteLine("❌ Mot de passe incorrect");
+            return Unauthorized("Mot de passe incorrect");
+        }
 
         if (user is null || !VerifyPassword(dto.Password, user.PasswordHash, user.PasswordSalt))
         {

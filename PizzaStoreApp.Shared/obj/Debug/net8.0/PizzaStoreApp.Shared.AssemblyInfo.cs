@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PizzaStoreApp.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ec308938905bcf25492cb9c4fde9b8f026995c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e205988a5970819a2ce169bc5fc934309034887c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PizzaStoreApp.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PizzaStoreApp.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
