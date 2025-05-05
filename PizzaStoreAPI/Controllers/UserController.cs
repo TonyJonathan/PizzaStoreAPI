@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PizzaStoreAPI.Data;
+using PizzaStoreAPI.Services;
 using PizzaStoreApp.Shared.Models;
 using System.Security.Cryptography;
 
@@ -73,6 +74,21 @@ public class UserController : ControllerBase
         hash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
     }
 
+    [HttpPost("login")]
+    public async Task<IActionResult> Login(LoginDto dto, [FromServices] JwtService jwtService)
+    {
+        var user = await db.Users.FirstOrDefaultAsync(u => u.Username == dto.Username);
+
+        if (user is null || !VerifyPassword(dto.Password, user.PasswordHash, user.PasswordSalt))
+        {
+            return Unauthorized("Identifiants invalides");
+        }
+
+        var token = jwtService.GenerateToken(user);
+        return Ok(new { token });
+    }
+
+
     [HttpPut("{id}")]
     public async Task<IActionResult> Update(int id, User user)
     {
@@ -102,4 +118,12 @@ public class UserController : ControllerBase
 
         return NoContent(); 
     }
+
+    private bool VerifyPassword(string password, byte[] storedHash, byte[] storedSalt)
+    {
+        using var hmac = new HMACSHA512(storedSalt);
+        var computedHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
+        return computedHash.SequenceEqual(storedHash);
+    }
 }
+
