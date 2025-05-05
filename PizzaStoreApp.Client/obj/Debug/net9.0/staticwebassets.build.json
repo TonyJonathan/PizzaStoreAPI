@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UqrQeLzxL9zmb7TZi7AM4bnaKkxNG600H7fiU49SlVI=",
+  "Hash": "DVzY7eGgvg64lcH7JRozFKpNNeyJIrML9JffAHFmLWY=",
   "Source": "PizzaStoreApp.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "exzdsc2wan",
-      "Integrity": "ImPD9G0HUFMMeDZW+IvWBd2MqVWzWB14TWBzcEjRoYQ=",
+      "Fingerprint": "ycg9ohq8x6",
+      "Integrity": "7qjKnzkXoL+khUWdexe3tup9xqZjkbolQJxn+48T5vA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -955,8 +955,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "boj2yzmys0",
-      "Integrity": "5YEWQlwqjbv/dZ704qctXGVoxPBVzF1GyGkN68LECto=",
+      "Fingerprint": "oxqptoyi4q",
+      "Integrity": "nJF1k0yPQk02eJT+VtcxTd6pp5xWV6qVUMl2zD9dlJ8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\PizzaStoreApp.Client.pdb"
@@ -976,8 +976,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "czmulcjh2a",
-      "Integrity": "2CRaujbswksaONBCrkCsCK8NIyMIZ9slDdFXuqMmyVQ=",
+      "Fingerprint": "ava54ztsfm",
+      "Integrity": "unkWUc91a77l52oMxb4GLCcOcavrRP7MqiZlUr7c+k0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\webcil\\PizzaStoreApp.Client.wasm"
@@ -4553,12 +4553,12 @@
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-21pemck9ta.gz",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-qbz2xboa9f.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "PizzaStoreApp.Client#[.{fingerprint=21pemck9ta}]?.styles.css.gz",
+      "RelativePath": "PizzaStoreApp.Client#[.{fingerprint=qbz2xboa9f}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -4567,8 +4567,8 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PizzaStoreApp.Client.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "n6va5ii79b",
-      "Integrity": "X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=",
+      "Fingerprint": "aftgph6yoo",
+      "Integrity": "CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PizzaStoreApp.Client.styles.css"
@@ -4637,12 +4637,12 @@
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Numerics.Vectors.wasm"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-03xt4s1gof.gz",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-yd0ate5ksh.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=03xt4s1gof}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=yd0ate5ksh}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4651,8 +4651,8 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tw1o358dcw",
-      "Integrity": "Uwmfajlk70vgOF/RwRvFs6JFL5L51Y4qIOYcaSOi8YQ=",
+      "Fingerprint": "cprvihq6s0",
+      "Integrity": "APRhfu4eDGkeOptYRF8bewLjUH2FPE3xXpZtC3K7ffM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\index.html"
@@ -4805,12 +4805,12 @@
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.wasm"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-21pemck9ta.gz",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-qbz2xboa9f.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "PizzaStoreApp.Client#[.{fingerprint=21pemck9ta}]!.bundle.scp.css.gz",
+      "RelativePath": "PizzaStoreApp.Client#[.{fingerprint=qbz2xboa9f}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -4819,8 +4819,8 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PizzaStoreApp.Client.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "n6va5ii79b",
-      "Integrity": "X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=",
+      "Fingerprint": "aftgph6yoo",
+      "Integrity": "CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PizzaStoreApp.Client.bundle.scp.css"
@@ -6023,7 +6023,7 @@
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\9m636dml83-exzdsc2wan.gz",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\9m636dml83-ycg9ohq8x6.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -6037,8 +6037,8 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jyvumnujfy",
-      "Integrity": "tdBHifMc0rKR9IutBrC/Ir6d28w1JzheyVtD89AK7Ng=",
+      "Fingerprint": "bk4by0g4d5",
+      "Integrity": "JbJ1V1LFL83hDmAAAcX+PiCR79pa9PZQ7bpBQS6zSPE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6443,12 +6443,12 @@
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Reflection.wasm"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-boj2yzmys0.gz",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-oxqptoyi4q.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/PizzaStoreApp.Client#[.{fingerprint=boj2yzmys0}]!.pdb.gz",
+      "RelativePath": "_framework/PizzaStoreApp.Client#[.{fingerprint=oxqptoyi4q}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6457,8 +6457,8 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PizzaStoreApp.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jz32s3p64k",
-      "Integrity": "Uecu7IU7HHyL1NqByGz7H/Yp0nrJ6rIAhu3TBYTQB2I=",
+      "Fingerprint": "ynftt177l2",
+      "Integrity": "cvpeEA8D5leOeN2gByRmrnusYB+yhhjxfkwjyFU1e5k=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PizzaStoreApp.Client.pdb"
@@ -7409,12 +7409,12 @@
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Linq.Parallel.wasm"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-czmulcjh2a.gz",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-ava54ztsfm.gz",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/PizzaStoreApp.Client#[.{fingerprint=czmulcjh2a}]!.wasm.gz",
+      "RelativePath": "_framework/PizzaStoreApp.Client#[.{fingerprint=ava54ztsfm}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7423,8 +7423,8 @@
       "RelatedAsset": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PizzaStoreApp.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "j1h6ue5dku",
-      "Integrity": "xwHbNX1n24NnNHDvb7Sq6cTm+lt+RLN3sqYz+JU+qX4=",
+      "Fingerprint": "pjugp44juc",
+      "Integrity": "W7iv/98mUMTtH+kS6q995xF0BkmCi06kV7Z9BxM0E2Y=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PizzaStoreApp.Client.wasm"
@@ -9901,8 +9901,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "21pemck9ta",
-      "Integrity": "NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=",
+      "Fingerprint": "qbz2xboa9f",
+      "Integrity": "VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PizzaStoreApp.Client.styles.css"
@@ -9922,8 +9922,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "21pemck9ta",
-      "Integrity": "NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=",
+      "Fingerprint": "qbz2xboa9f",
+      "Integrity": "VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PizzaStoreApp.Client.bundle.scp.css"
@@ -9950,12 +9950,12 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\img\\logo.png",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "RelativePath": "img/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9964,32 +9964,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ifv42okdf2",
-      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "Fingerprint": "qr6r6r67fq",
+      "Integrity": "+nJ+XASkVr2EoPUuhRpdDjaYWJ1twi8BdzLCNrPFjnQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
-    },
-    {
-      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\icon-192.png",
-      "SourceId": "PizzaStoreApp.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "icon-192#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "f9uvjujlxy",
-      "Integrity": "DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icon-192.png"
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\index.html",
@@ -10006,8 +9985,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "03xt4s1gof",
-      "Integrity": "RC+DwEKtK7/m8+SrIBz9UjAJf4aoB/fEuSw6jmS4dbY=",
+      "Fingerprint": "yd0ate5ksh",
+      "Integrity": "iloErhpWDczzc2/ccj3XZXuUcb94C0ClxhZoLSuikc8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -10937,6 +10916,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\logo.png",
+      "SourceId": "PizzaStoreApp.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ovb2myndo",
+      "Integrity": "7VBFSM1FBELDJCf/zsHM/Wf/m+bE3GR0l6XJxvjJsdM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
       "Identity": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\sample-data\\weather.json",
       "SourceId": "PizzaStoreApp.Client",
       "SourceType": "Discovered",
@@ -10999,11 +10999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ImPD9G0HUFMMeDZW+IvWBd2MqVWzWB14TWBzcEjRoYQ=\""
+          "Value": "\"7qjKnzkXoL+khUWdexe3tup9xqZjkbolQJxn+48T5vA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 09:01:13 GMT"
+          "Value": "Mon, 05 May 2025 12:29:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11013,18 +11013,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ImPD9G0HUFMMeDZW+IvWBd2MqVWzWB14TWBzcEjRoYQ="
+          "Value": "sha256-7qjKnzkXoL+khUWdexe3tup9xqZjkbolQJxn+48T5vA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\9m636dml83-exzdsc2wan.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\9m636dml83-ycg9ohq8x6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000078585462"
+          "Quality": "0.000078597815"
         }
       ],
       "ResponseHeaders": [
@@ -11034,15 +11034,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12724"
+          "Value": "12722"
         },
         {
           "Name": "ETag",
-          "Value": "\"tdBHifMc0rKR9IutBrC/Ir6d28w1JzheyVtD89AK7Ng=\""
+          "Value": "\"JbJ1V1LFL83hDmAAAcX+PiCR79pa9PZQ7bpBQS6zSPE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
+          "Value": "Mon, 05 May 2025 12:29:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11062,19 +11062,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ImPD9G0HUFMMeDZW+IvWBd2MqVWzWB14TWBzcEjRoYQ=\""
+          "Value": "W/\"7qjKnzkXoL+khUWdexe3tup9xqZjkbolQJxn+48T5vA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ImPD9G0HUFMMeDZW+IvWBd2MqVWzWB14TWBzcEjRoYQ="
+          "Value": "sha256-7qjKnzkXoL+khUWdexe3tup9xqZjkbolQJxn+48T5vA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\9m636dml83-exzdsc2wan.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\9m636dml83-ycg9ohq8x6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11083,7 +11083,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12724"
+          "Value": "12722"
         },
         {
           "Name": "Content-Type",
@@ -11091,11 +11091,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tdBHifMc0rKR9IutBrC/Ir6d28w1JzheyVtD89AK7Ng=\""
+          "Value": "\"JbJ1V1LFL83hDmAAAcX+PiCR79pa9PZQ7bpBQS6zSPE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
+          "Value": "Mon, 05 May 2025 12:29:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11113,7 +11113,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tdBHifMc0rKR9IutBrC/Ir6d28w1JzheyVtD89AK7Ng="
+          "Value": "sha256-JbJ1V1LFL83hDmAAAcX+PiCR79pa9PZQ7bpBQS6zSPE="
         }
       ]
     },
@@ -23771,168 +23771,7 @@
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.boj2yzmys0.pdb",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PizzaStoreApp.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28488"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5YEWQlwqjbv/dZ704qctXGVoxPBVzF1GyGkN68LECto=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "boj2yzmys0"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PizzaStoreApp.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5YEWQlwqjbv/dZ704qctXGVoxPBVzF1GyGkN68LECto="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PizzaStoreApp.Client.boj2yzmys0.pdb",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-boj2yzmys0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000048433186"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20646"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uecu7IU7HHyL1NqByGz7H/Yp0nrJ6rIAhu3TBYTQB2I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"5YEWQlwqjbv/dZ704qctXGVoxPBVzF1GyGkN68LECto=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "boj2yzmys0"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PizzaStoreApp.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5YEWQlwqjbv/dZ704qctXGVoxPBVzF1GyGkN68LECto="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PizzaStoreApp.Client.boj2yzmys0.pdb.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-boj2yzmys0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20646"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uecu7IU7HHyL1NqByGz7H/Yp0nrJ6rIAhu3TBYTQB2I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "boj2yzmys0"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PizzaStoreApp.Client.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uecu7IU7HHyL1NqByGz7H/Yp0nrJ6rIAhu3TBYTQB2I="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PizzaStoreApp.Client.czmulcjh2a.wasm",
+      "Route": "_framework/PizzaStoreApp.Client.ava54ztsfm.wasm",
       "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PizzaStoreApp.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -23942,7 +23781,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44309"
+          "Value": "49941"
         },
         {
           "Name": "Content-Type",
@@ -23950,11 +23789,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2CRaujbswksaONBCrkCsCK8NIyMIZ9slDdFXuqMmyVQ=\""
+          "Value": "\"unkWUc91a77l52oMxb4GLCcOcavrRP7MqiZlUr7c+k0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:39 GMT"
+          "Value": "Mon, 05 May 2025 12:18:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23964,7 +23803,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "czmulcjh2a"
+          "Value": "ava54ztsfm"
         },
         {
           "Name": "label",
@@ -23972,18 +23811,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2CRaujbswksaONBCrkCsCK8NIyMIZ9slDdFXuqMmyVQ="
+          "Value": "sha256-unkWUc91a77l52oMxb4GLCcOcavrRP7MqiZlUr7c+k0="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.czmulcjh2a.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-czmulcjh2a.gz",
+      "Route": "_framework/PizzaStoreApp.Client.ava54ztsfm.wasm",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-ava54ztsfm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000067371825"
+          "Quality": "0.000060099766"
         }
       ],
       "ResponseHeaders": [
@@ -23993,15 +23832,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14842"
+          "Value": "16638"
         },
         {
           "Name": "ETag",
-          "Value": "\"xwHbNX1n24NnNHDvb7Sq6cTm+lt+RLN3sqYz+JU+qX4=\""
+          "Value": "\"W7iv/98mUMTtH+kS6q995xF0BkmCi06kV7Z9BxM0E2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
+          "Value": "Mon, 05 May 2025 12:18:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24021,13 +23860,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2CRaujbswksaONBCrkCsCK8NIyMIZ9slDdFXuqMmyVQ=\""
+          "Value": "W/\"unkWUc91a77l52oMxb4GLCcOcavrRP7MqiZlUr7c+k0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "czmulcjh2a"
+          "Value": "ava54ztsfm"
         },
         {
           "Name": "label",
@@ -24035,13 +23874,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2CRaujbswksaONBCrkCsCK8NIyMIZ9slDdFXuqMmyVQ="
+          "Value": "sha256-unkWUc91a77l52oMxb4GLCcOcavrRP7MqiZlUr7c+k0="
         }
       ]
     },
     {
-      "Route": "_framework/PizzaStoreApp.Client.czmulcjh2a.wasm.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-czmulcjh2a.gz",
+      "Route": "_framework/PizzaStoreApp.Client.ava54ztsfm.wasm.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-ava54ztsfm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24050,7 +23889,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14842"
+          "Value": "16638"
         },
         {
           "Name": "Content-Type",
@@ -24058,11 +23897,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xwHbNX1n24NnNHDvb7Sq6cTm+lt+RLN3sqYz+JU+qX4=\""
+          "Value": "\"W7iv/98mUMTtH+kS6q995xF0BkmCi06kV7Z9BxM0E2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
+          "Value": "Mon, 05 May 2025 12:18:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24080,7 +23919,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "czmulcjh2a"
+          "Value": "ava54ztsfm"
         },
         {
           "Name": "label",
@@ -24088,7 +23927,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xwHbNX1n24NnNHDvb7Sq6cTm+lt+RLN3sqYz+JU+qX4="
+          "Value": "sha256-W7iv/98mUMTtH+kS6q995xF0BkmCi06kV7Z9BxM0E2Y="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PizzaStoreApp.Client.oxqptoyi4q.pdb",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PizzaStoreApp.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nJF1k0yPQk02eJT+VtcxTd6pp5xWV6qVUMl2zD9dlJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:18:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxqptoyi4q"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PizzaStoreApp.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nJF1k0yPQk02eJT+VtcxTd6pp5xWV6qVUMl2zD9dlJ8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PizzaStoreApp.Client.oxqptoyi4q.pdb",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-oxqptoyi4q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041293306"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvpeEA8D5leOeN2gByRmrnusYB+yhhjxfkwjyFU1e5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nJF1k0yPQk02eJT+VtcxTd6pp5xWV6qVUMl2zD9dlJ8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxqptoyi4q"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PizzaStoreApp.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nJF1k0yPQk02eJT+VtcxTd6pp5xWV6qVUMl2zD9dlJ8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PizzaStoreApp.Client.oxqptoyi4q.pdb.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-oxqptoyi4q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvpeEA8D5leOeN2gByRmrnusYB+yhhjxfkwjyFU1e5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxqptoyi4q"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PizzaStoreApp.Client.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cvpeEA8D5leOeN2gByRmrnusYB+yhhjxfkwjyFU1e5k="
         }
       ]
     },
@@ -24103,7 +24103,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28488"
+          "Value": "32392"
         },
         {
           "Name": "Content-Type",
@@ -24111,11 +24111,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5YEWQlwqjbv/dZ704qctXGVoxPBVzF1GyGkN68LECto=\""
+          "Value": "\"nJF1k0yPQk02eJT+VtcxTd6pp5xWV6qVUMl2zD9dlJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:39 GMT"
+          "Value": "Mon, 05 May 2025 12:18:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24125,18 +24125,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5YEWQlwqjbv/dZ704qctXGVoxPBVzF1GyGkN68LECto="
+          "Value": "sha256-nJF1k0yPQk02eJT+VtcxTd6pp5xWV6qVUMl2zD9dlJ8="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.pdb",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-boj2yzmys0.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-oxqptoyi4q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000048433186"
+          "Quality": "0.000041293306"
         }
       ],
       "ResponseHeaders": [
@@ -24146,15 +24146,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20646"
+          "Value": "24216"
         },
         {
           "Name": "ETag",
-          "Value": "\"Uecu7IU7HHyL1NqByGz7H/Yp0nrJ6rIAhu3TBYTQB2I=\""
+          "Value": "\"cvpeEA8D5leOeN2gByRmrnusYB+yhhjxfkwjyFU1e5k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
+          "Value": "Mon, 05 May 2025 12:18:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24174,19 +24174,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5YEWQlwqjbv/dZ704qctXGVoxPBVzF1GyGkN68LECto=\""
+          "Value": "W/\"nJF1k0yPQk02eJT+VtcxTd6pp5xWV6qVUMl2zD9dlJ8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5YEWQlwqjbv/dZ704qctXGVoxPBVzF1GyGkN68LECto="
+          "Value": "sha256-nJF1k0yPQk02eJT+VtcxTd6pp5xWV6qVUMl2zD9dlJ8="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-boj2yzmys0.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\ce1mvco6ew-oxqptoyi4q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24195,7 +24195,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20646"
+          "Value": "24216"
         },
         {
           "Name": "Content-Type",
@@ -24203,11 +24203,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Uecu7IU7HHyL1NqByGz7H/Yp0nrJ6rIAhu3TBYTQB2I=\""
+          "Value": "\"cvpeEA8D5leOeN2gByRmrnusYB+yhhjxfkwjyFU1e5k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
+          "Value": "Mon, 05 May 2025 12:18:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24225,7 +24225,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Uecu7IU7HHyL1NqByGz7H/Yp0nrJ6rIAhu3TBYTQB2I="
+          "Value": "sha256-cvpeEA8D5leOeN2gByRmrnusYB+yhhjxfkwjyFU1e5k="
         }
       ]
     },
@@ -24240,7 +24240,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44309"
+          "Value": "49941"
         },
         {
           "Name": "Content-Type",
@@ -24248,11 +24248,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2CRaujbswksaONBCrkCsCK8NIyMIZ9slDdFXuqMmyVQ=\""
+          "Value": "\"unkWUc91a77l52oMxb4GLCcOcavrRP7MqiZlUr7c+k0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:39 GMT"
+          "Value": "Mon, 05 May 2025 12:18:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24262,18 +24262,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2CRaujbswksaONBCrkCsCK8NIyMIZ9slDdFXuqMmyVQ="
+          "Value": "sha256-unkWUc91a77l52oMxb4GLCcOcavrRP7MqiZlUr7c+k0="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-czmulcjh2a.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-ava54ztsfm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000067371825"
+          "Quality": "0.000060099766"
         }
       ],
       "ResponseHeaders": [
@@ -24283,15 +24283,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14842"
+          "Value": "16638"
         },
         {
           "Name": "ETag",
-          "Value": "\"xwHbNX1n24NnNHDvb7Sq6cTm+lt+RLN3sqYz+JU+qX4=\""
+          "Value": "\"W7iv/98mUMTtH+kS6q995xF0BkmCi06kV7Z9BxM0E2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
+          "Value": "Mon, 05 May 2025 12:18:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24311,19 +24311,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2CRaujbswksaONBCrkCsCK8NIyMIZ9slDdFXuqMmyVQ=\""
+          "Value": "W/\"unkWUc91a77l52oMxb4GLCcOcavrRP7MqiZlUr7c+k0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2CRaujbswksaONBCrkCsCK8NIyMIZ9slDdFXuqMmyVQ="
+          "Value": "sha256-unkWUc91a77l52oMxb4GLCcOcavrRP7MqiZlUr7c+k0="
         }
       ]
     },
     {
       "Route": "_framework/PizzaStoreApp.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-czmulcjh2a.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\j16flarz0p-ava54ztsfm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24332,7 +24332,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14842"
+          "Value": "16638"
         },
         {
           "Name": "Content-Type",
@@ -24340,11 +24340,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xwHbNX1n24NnNHDvb7Sq6cTm+lt+RLN3sqYz+JU+qX4=\""
+          "Value": "\"W7iv/98mUMTtH+kS6q995xF0BkmCi06kV7Z9BxM0E2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 08:41:40 GMT"
+          "Value": "Mon, 05 May 2025 12:18:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24362,7 +24362,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xwHbNX1n24NnNHDvb7Sq6cTm+lt+RLN3sqYz+JU+qX4="
+          "Value": "sha256-W7iv/98mUMTtH+kS6q995xF0BkmCi06kV7Z9BxM0E2Y="
         }
       ]
     },
@@ -73537,8 +73537,8 @@
       ]
     },
     {
-      "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\favicon.png",
+      "Route": "img/logo.png",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\img\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73547,7 +73547,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1148"
+          "Value": "1388979"
         },
         {
           "Name": "Content-Type",
@@ -73555,56 +73555,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+          "Value": "\"+nJ+XASkVr2EoPUuhRpdDjaYWJ1twi8BdzLCNrPFjnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 12:30:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ifv42okdf2"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\favicon.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1148"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 12:30:14 GMT"
+          "Value": "Mon, 05 May 2025 12:14:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73614,13 +73569,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+          "Value": "sha256-+nJ+XASkVr2EoPUuhRpdDjaYWJ1twi8BdzLCNrPFjnQ="
         }
       ]
     },
     {
-      "Route": "icon-192.f9uvjujlxy.png",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\icon-192.png",
+      "Route": "img/logo.qr6r6r67fq.png",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\img\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73629,7 +73584,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2626"
+          "Value": "1388979"
         },
         {
           "Name": "Content-Type",
@@ -73637,11 +73592,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=\""
+          "Value": "\"+nJ+XASkVr2EoPUuhRpdDjaYWJ1twi8BdzLCNrPFjnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 12:30:14 GMT"
+          "Value": "Mon, 05 May 2025 12:14:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73651,63 +73606,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f9uvjujlxy"
+          "Value": "qr6r6r67fq"
         },
         {
           "Name": "label",
-          "Value": "icon-192.png"
+          "Value": "img/logo.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
+          "Value": "sha256-+nJ+XASkVr2EoPUuhRpdDjaYWJ1twi8BdzLCNrPFjnQ="
         }
       ]
     },
     {
-      "Route": "icon-192.png",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\icon-192.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2626"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 12:30:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
-        }
-      ]
-    },
-    {
-      "Route": "index.03xt4s1gof.html",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-03xt4s1gof.gz",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-yd0ate5ksh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002053388090"
+          "Quality": "0.002066115702"
         }
       ],
       "ResponseHeaders": [
@@ -73717,19 +73635,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "486"
+          "Value": "483"
         },
         {
           "Name": "ETag",
-          "Value": "\"Uwmfajlk70vgOF/RwRvFs6JFL5L51Y4qIOYcaSOi8YQ=\""
+          "Value": "\"APRhfu4eDGkeOptYRF8bewLjUH2FPE3xXpZtC3K7ffM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 18:19:01 GMT"
+          "Value": "Mon, 05 May 2025 12:29:52 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -73745,26 +73663,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RC+DwEKtK7/m8+SrIBz9UjAJf4aoB/fEuSw6jmS4dbY=\""
+          "Value": "W/\"iloErhpWDczzc2/ccj3XZXuUcb94C0ClxhZoLSuikc8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "03xt4s1gof"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-RC+DwEKtK7/m8+SrIBz9UjAJf4aoB/fEuSw6jmS4dbY="
+          "Value": "sha256-iloErhpWDczzc2/ccj3XZXuUcb94C0ClxhZoLSuikc8="
         }
       ]
     },
     {
-      "Route": "index.03xt4s1gof.html",
+      "Route": "index.html",
       "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -73774,7 +73684,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1035"
+          "Value": "1032"
         },
         {
           "Name": "Content-Type",
@@ -73782,11 +73692,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RC+DwEKtK7/m8+SrIBz9UjAJf4aoB/fEuSw6jmS4dbY=\""
+          "Value": "\"iloErhpWDczzc2/ccj3XZXuUcb94C0ClxhZoLSuikc8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 18:19:01 GMT"
+          "Value": "Mon, 05 May 2025 12:29:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iloErhpWDczzc2/ccj3XZXuUcb94C0ClxhZoLSuikc8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-yd0ate5ksh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"APRhfu4eDGkeOptYRF8bewLjUH2FPE3xXpZtC3K7ffM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:29:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-APRhfu4eDGkeOptYRF8bewLjUH2FPE3xXpZtC3K7ffM="
+        }
+      ]
+    },
+    {
+      "Route": "index.yd0ate5ksh.html",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-yd0ate5ksh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002066115702"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "483"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"APRhfu4eDGkeOptYRF8bewLjUH2FPE3xXpZtC3K7ffM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:29:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iloErhpWDczzc2/ccj3XZXuUcb94C0ClxhZoLSuikc8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yd0ate5ksh"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iloErhpWDczzc2/ccj3XZXuUcb94C0ClxhZoLSuikc8="
+        }
+      ]
+    },
+    {
+      "Route": "index.yd0ate5ksh.html",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iloErhpWDczzc2/ccj3XZXuUcb94C0ClxhZoLSuikc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:29:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73796,7 +73851,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "03xt4s1gof"
+          "Value": "yd0ate5ksh"
         },
         {
           "Name": "label",
@@ -73804,13 +73859,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RC+DwEKtK7/m8+SrIBz9UjAJf4aoB/fEuSw6jmS4dbY="
+          "Value": "sha256-iloErhpWDczzc2/ccj3XZXuUcb94C0ClxhZoLSuikc8="
         }
       ]
     },
     {
-      "Route": "index.03xt4s1gof.html.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-03xt4s1gof.gz",
+      "Route": "index.yd0ate5ksh.html.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-yd0ate5ksh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73819,7 +73874,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "486"
+          "Value": "483"
         },
         {
           "Name": "Content-Type",
@@ -73827,11 +73882,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Uwmfajlk70vgOF/RwRvFs6JFL5L51Y4qIOYcaSOi8YQ=\""
+          "Value": "\"APRhfu4eDGkeOptYRF8bewLjUH2FPE3xXpZtC3K7ffM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 18:19:01 GMT"
+          "Value": "Mon, 05 May 2025 12:29:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73849,7 +73904,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "03xt4s1gof"
+          "Value": "yd0ate5ksh"
         },
         {
           "Name": "label",
@@ -73857,144 +73912,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Uwmfajlk70vgOF/RwRvFs6JFL5L51Y4qIOYcaSOi8YQ="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-03xt4s1gof.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002053388090"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "486"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uwmfajlk70vgOF/RwRvFs6JFL5L51Y4qIOYcaSOi8YQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 18:19:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"RC+DwEKtK7/m8+SrIBz9UjAJf4aoB/fEuSw6jmS4dbY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RC+DwEKtK7/m8+SrIBz9UjAJf4aoB/fEuSw6jmS4dbY="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RC+DwEKtK7/m8+SrIBz9UjAJf4aoB/fEuSw6jmS4dbY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 18:19:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RC+DwEKtK7/m8+SrIBz9UjAJf4aoB/fEuSw6jmS4dbY="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\1jv3q8rxtz-03xt4s1gof.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "486"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uwmfajlk70vgOF/RwRvFs6JFL5L51Y4qIOYcaSOi8YQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 18:19:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uwmfajlk70vgOF/RwRvFs6JFL5L51Y4qIOYcaSOi8YQ="
+          "Value": "sha256-APRhfu4eDGkeOptYRF8bewLjUH2FPE3xXpZtC3K7ffM="
         }
       ]
     },
@@ -87111,13 +87029,95 @@
       ]
     },
     {
-      "Route": "PizzaStoreApp.Client.21pemck9ta.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-21pemck9ta.gz",
+      "Route": "logo.3ovb2myndo.png",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7VBFSM1FBELDJCf/zsHM/Wf/m+bE3GR0l6XJxvjJsdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ovb2myndo"
+        },
+        {
+          "Name": "label",
+          "Value": "logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7VBFSM1FBELDJCf/zsHM/Wf/m+bE3GR0l6XJxvjJsdM="
+        }
+      ]
+    },
+    {
+      "Route": "logo.png",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\wwwroot\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7VBFSM1FBELDJCf/zsHM/Wf/m+bE3GR0l6XJxvjJsdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7VBFSM1FBELDJCf/zsHM/Wf/m+bE3GR0l6XJxvjJsdM="
+        }
+      ]
+    },
+    {
+      "Route": "PizzaStoreApp.Client.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-qbz2xboa9f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000523834468"
+          "Quality": "0.000481231954"
         }
       ],
       "ResponseHeaders": [
@@ -87127,19 +87127,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1908"
+          "Value": "2077"
         },
         {
           "Name": "ETag",
-          "Value": "\"X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=\""
+          "Value": "\"CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -87155,26 +87155,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=\""
+          "Value": "W/\"VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "21pemck9ta"
-        },
-        {
-          "Name": "label",
-          "Value": "PizzaStoreApp.Client.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA="
+          "Value": "sha256-VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8="
         }
       ]
     },
     {
-      "Route": "PizzaStoreApp.Client.21pemck9ta.bundle.scp.css",
+      "Route": "PizzaStoreApp.Client.bundle.scp.css",
       "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PizzaStoreApp.Client.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -87184,7 +87176,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7247"
+          "Value": "8156"
         },
         {
           "Name": "Content-Type",
@@ -87192,11 +87184,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=\""
+          "Value": "\"VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8="
+        }
+      ]
+    },
+    {
+      "Route": "PizzaStoreApp.Client.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-qbz2xboa9f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w="
+        }
+      ]
+    },
+    {
+      "Route": "PizzaStoreApp.Client.qbz2xboa9f.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-qbz2xboa9f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000481231954"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2077"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbz2xboa9f"
+        },
+        {
+          "Name": "label",
+          "Value": "PizzaStoreApp.Client.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8="
+        }
+      ]
+    },
+    {
+      "Route": "PizzaStoreApp.Client.qbz2xboa9f.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PizzaStoreApp.Client.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87206,7 +87343,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "21pemck9ta"
+          "Value": "qbz2xboa9f"
         },
         {
           "Name": "label",
@@ -87214,13 +87351,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA="
+          "Value": "sha256-VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8="
         }
       ]
     },
     {
-      "Route": "PizzaStoreApp.Client.21pemck9ta.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-21pemck9ta.gz",
+      "Route": "PizzaStoreApp.Client.qbz2xboa9f.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-qbz2xboa9f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -87229,7 +87366,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1908"
+          "Value": "2077"
         },
         {
           "Name": "Content-Type",
@@ -87237,11 +87374,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=\""
+          "Value": "\"CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87259,7 +87396,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "21pemck9ta"
+          "Value": "qbz2xboa9f"
         },
         {
           "Name": "label",
@@ -87267,18 +87404,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc="
+          "Value": "sha256-CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w="
         }
       ]
     },
     {
-      "Route": "PizzaStoreApp.Client.21pemck9ta.styles.css",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-21pemck9ta.gz",
+      "Route": "PizzaStoreApp.Client.qbz2xboa9f.styles.css",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-qbz2xboa9f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000523834468"
+          "Quality": "0.000481231954"
         }
       ],
       "ResponseHeaders": [
@@ -87288,15 +87425,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1908"
+          "Value": "2077"
         },
         {
           "Name": "ETag",
-          "Value": "\"X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=\""
+          "Value": "\"CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87316,13 +87453,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=\""
+          "Value": "W/\"VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "21pemck9ta"
+          "Value": "qbz2xboa9f"
         },
         {
           "Name": "label",
@@ -87330,12 +87467,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA="
+          "Value": "sha256-VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8="
         }
       ]
     },
     {
-      "Route": "PizzaStoreApp.Client.21pemck9ta.styles.css",
+      "Route": "PizzaStoreApp.Client.qbz2xboa9f.styles.css",
       "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PizzaStoreApp.Client.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -87345,7 +87482,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7247"
+          "Value": "8156"
         },
         {
           "Name": "Content-Type",
@@ -87353,11 +87490,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=\""
+          "Value": "\"VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87367,7 +87504,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "21pemck9ta"
+          "Value": "qbz2xboa9f"
         },
         {
           "Name": "label",
@@ -87375,13 +87512,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA="
+          "Value": "sha256-VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8="
         }
       ]
     },
     {
-      "Route": "PizzaStoreApp.Client.21pemck9ta.styles.css.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-21pemck9ta.gz",
+      "Route": "PizzaStoreApp.Client.qbz2xboa9f.styles.css.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-qbz2xboa9f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -87390,7 +87527,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1908"
+          "Value": "2077"
         },
         {
           "Name": "Content-Type",
@@ -87398,11 +87535,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=\""
+          "Value": "\"CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87420,7 +87557,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "21pemck9ta"
+          "Value": "qbz2xboa9f"
         },
         {
           "Name": "label",
@@ -87428,155 +87565,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc="
-        }
-      ]
-    },
-    {
-      "Route": "PizzaStoreApp.Client.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-21pemck9ta.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000523834468"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1908"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA="
-        }
-      ]
-    },
-    {
-      "Route": "PizzaStoreApp.Client.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PizzaStoreApp.Client.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7247"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA="
-        }
-      ]
-    },
-    {
-      "Route": "PizzaStoreApp.Client.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\2babccq52j-21pemck9ta.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1908"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc="
+          "Value": "sha256-CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w="
         }
       ]
     },
     {
       "Route": "PizzaStoreApp.Client.styles.css",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-21pemck9ta.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-qbz2xboa9f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000523834468"
+          "Quality": "0.000481231954"
         }
       ],
       "ResponseHeaders": [
@@ -87586,15 +87586,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1908"
+          "Value": "2077"
         },
         {
           "Name": "ETag",
-          "Value": "\"X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=\""
+          "Value": "\"CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87614,13 +87614,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=\""
+          "Value": "W/\"VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA="
+          "Value": "sha256-VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8="
         }
       ]
     },
@@ -87635,7 +87635,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7247"
+          "Value": "8156"
         },
         {
           "Name": "Content-Type",
@@ -87643,11 +87643,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA=\""
+          "Value": "\"VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87657,13 +87657,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NnxglkBS/P5XXK4jrhDowynf2h2cendsmJQwsvD/EvA="
+          "Value": "sha256-VuxxA6U/yK5C5aMutcDYDIjSwXEXXEIKBXkDFa9E2s8="
         }
       ]
     },
     {
       "Route": "PizzaStoreApp.Client.styles.css.gz",
-      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-21pemck9ta.gz",
+      "AssetFile": "C:\\Users\\Tonyb\\source\\repos\\PizzaStoreApp\\PizzaStoreApp.Client\\obj\\Debug\\net9.0\\compressed\\0tkx183xpx-qbz2xboa9f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -87672,7 +87672,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1908"
+          "Value": "2077"
         },
         {
           "Name": "Content-Type",
@@ -87680,11 +87680,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc=\""
+          "Value": "\"CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 22:40:11 GMT"
+          "Value": "Mon, 05 May 2025 12:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87702,7 +87702,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-X0nvpCGnadtNHNKam7ibPL8vtloD2TZhpRsEp8aMRlc="
+          "Value": "sha256-CooX4ASfZ9u2/LiTaf7Itm4hMIh8QLLc7ZhOp/b3I4w="
         }
       ]
     },

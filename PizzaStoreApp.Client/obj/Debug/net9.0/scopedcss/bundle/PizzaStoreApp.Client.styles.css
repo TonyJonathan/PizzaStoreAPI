@@ -160,6 +160,57 @@ main[b-d02fioqpqd] {
         overflow-y: auto;
     }
 }
+/* /Pages/Login.razor.rz.scp.css */
+body[b-1g3wgxnc14] {
+}
+
+.container[b-1g3wgxnc14] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin:0; 
+    min-width: 100%; 
+}
+
+.title[b-1g3wgxnc14] {
+    display: flex;
+    align-items: center; /* alignement vertical */
+    gap: 7px; 
+    width: 100%; 
+}
+
+.title > h1[b-1g3wgxnc14] {
+    font-size: 22px;
+    margin: 0; 
+    color: #808080; 
+}
+
+.title > svg[b-1g3wgxnc14] {
+    width: 20px;
+}
+
+.connexion-form[b-1g3wgxnc14] {
+    width: 200px; 
+}
+
+.connexion[b-1g3wgxnc14] {
+    margin-top: 100px; 
+    width: 250px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.connexion > img[b-1g3wgxnc14] {
+    width: 230px; 
+}
+
+.connexion-button[b-1g3wgxnc14]{
+    width: 100%;
+    margin-top: 20px; 
+}
 /* /Pages/Pizzas.razor.rz.scp.css */
 .container[b-ml1zlit7v8]
 {
